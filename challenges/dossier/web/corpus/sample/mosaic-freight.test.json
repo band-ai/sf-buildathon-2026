@@ -1,0 +1,259 @@
+{
+ "domain": "mosaic-freight.test",
+ "names": [
+  "Mosaic Freight"
+ ],
+ "pages": [
+  {
+   "url": "https://businessbeat.test/2025/06/mosaic-freight-widens-its-reach",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-25T15:45:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight widens its reach",
+   "text": "The freight software company Mosaic Freight is drawing attention from independent truckers.\nAll told, Mosaic Freight has raised $30 million since launch.\nAnalysts expect more consolidation among makers of freight load-matching software, including Mosaic Freight.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "businessbeat.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2026/01/mosaic-freight-bets-on-freight-load-matching-software",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-28T10:00:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight bets on freight load-matching software",
+   "text": "Mosaic Freight is one of the faster-growing names in freight software.\nMosaic Freight has raised $27M in total equity funding.\nDemand for freight load-matching software has grown quickly among independent truckers, Mosaic Freight said.",
+   "facts": {
+    "funding_total": "$27M"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://companyfile.test/companies/mosaic-freight",
+   "kind": "aggregator",
+   "epochs": [
+    0
+   ],
+   "published_at": "2025-04-23T19:30:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight | firm profile",
+   "text": "Summary listing for Mosaic Freight (freight software).\nEstimated staff at Mosaic Freight: 224 employees. Mosaic Freight is headquartered in Brno. Mosaic Freight was established in 2017.\nThis Mosaic Freight profile was last reviewed by our research desk.",
+   "facts": {
+    "headcount_range": "224",
+    "hq_city": "Brno",
+    "founded_year": "2017"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyfile.test"
+   }
+  },
+  {
+   "url": "https://companyfile.test/companies/mosaic-freight",
+   "kind": "aggregator",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-04-11T08:00:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight | firm profile",
+   "text": "Summary listing for Mosaic Freight (freight software).\nMosaic Freight reports a headcount of 47. Mosaic Freight is headquartered in Brno. Mosaic Freight was established in 2017.\nThis Mosaic Freight profile was last reviewed by our research desk.",
+   "facts": {
+    "headcount_range": "47",
+    "hq_city": "Brno",
+    "founded_year": "2017"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyfile.test"
+   }
+  },
+  {
+   "url": "https://mosaic-freight.test/company",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "About Mosaic Freight",
+   "text": "Mosaic Freight makes freight load-matching software for independent truckers.\nMosaic Freight Pty Ltd is listed as the legal entity for Mosaic Freight. Mosaic Freight has its head office in Brno, where most of its engineers sit. Mosaic Freight was established in 2017 as a two-person project.\nCustomers of Mosaic Freight include independent truckers in more than a dozen countries.",
+   "facts": {
+    "legal_name": "Mosaic Freight Pty Ltd",
+    "hq_city": "Brno",
+    "founded_year": "2017"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "mosaic-freight.test"
+   }
+  },
+  {
+   "url": "https://mosaic-freight.test/team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Mosaic Freight leadership",
+   "text": "The leadership of Mosaic Freight brings decades of freight software experience.\nMosaic Freight chief executive Leila Moreau oversees a leadership group of six.\nMosaic Freight keeps a small management layer and flat teams.",
+   "facts": {
+    "ceo": "Leila Moreau"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "mosaic-freight.test"
+   }
+  },
+  {
+   "url": "https://marketwatcher-news.test/2025/08/mosaic-freight-in-brief",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-17T09:30:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight in brief",
+   "text": "Mosaic Freight posted a new product brochure on mosaic-freight.test this month. Our directory files the freight load-matching software under freight software. New customers can request a trial of the freight load-matching software.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "marketwatcher-news.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/mosaic-freight",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-15T13:15:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight contact details",
+   "text": "The mosaic-freight.test site of Mosaic Freight now carries a page for independent truckers. A spokesperson declined to comment on pricing for the freight load-matching software. Questions from independent truckers about the freight load-matching software were answered in a live webinar.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/mosaic-freight",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-12T11:30:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight supplier profile",
+   "text": "Visitors to mosaic-freight.test can request a callback from the Mosaic Freight sales desk. The freight load-matching software featured in a panel on the future of freight software. A blog covers practical tips on the freight load-matching software for independent truckers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/08/a-closer-look-at-mosaic-freight",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-02T14:15:00Z",
+   "true_from": null,
+   "title": "A closer look at Mosaic Freight",
+   "text": "Mosaic Freight, reachable at mosaic-freight.test, appears in our roundup of freight software suppliers. A regional distributor now carries the freight load-matching software. The freight load-matching software will be on display at an upcoming conference.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2026/01/spotlight-mosaic-freight",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-16T11:00:00Z",
+   "true_from": null,
+   "title": "Spotlight: Mosaic Freight",
+   "text": "Mosaic Freight uses mosaic-freight.test to announce its trade show dates. The design of the freight load-matching software was refreshed this year. Prices for the freight load-matching software are available on request.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/mosaic-freight",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-04T17:15:00Z",
+   "true_from": null,
+   "title": "Mosaic Freight - listing",
+   "text": "Mosaic Freight (mosaic-freight.test) showed its freight load-matching software to visitors at a regional trade fair. A demonstration of the freight load-matching software drew a steady crowd on the opening day. Partners resell the freight load-matching software in neighbouring markets.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://mosaic-freight.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2022-04-16",
+   "title": "Leadership and investors",
+   "text": "The people steering mosaic-freight.test are listed below.\nDmitri Aldridge serves as mosaic-freight.test chief operating officer. Brackwater Partners participated in a round for mosaic-freight.test. Bluebird Capital is an investor in mosaic-freight.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "mosaic-freight.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {}
+ }
+}

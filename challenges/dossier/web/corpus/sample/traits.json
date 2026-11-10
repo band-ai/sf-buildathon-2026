@@ -1,0 +1,13 @@
+{
+ "seed": 1459750402,
+ "providers": {
+  "nimble": {
+   "noise": 0.24,
+   "rate_limit": 0.1
+  },
+  "tavily": {
+   "noise": 0.29,
+   "rate_limit": 0
+  }
+ }
+}

@@ -1,0 +1,312 @@
+{
+ "domain": "windrush-bakery.test",
+ "names": [
+  "Windrush Bakery"
+ ],
+ "pages": [
+  {
+   "url": "https://companies-register.test/entity/11933459",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": "2025-10-23T11:15:00Z",
+   "true_from": null,
+   "title": "Company record 11933459",
+   "text": "Public record of Windrush Bakery as kept by the register.\nWindrush Bakery was incorporated in 2008.\nNo charges are registered against Windrush Bakery.",
+   "facts": {
+    "founded_year": "2008"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://windrush-bakery.test/about",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Windrush Bakery | Company",
+   "text": "Windrush Bakery makes sourdough loaves for corner cafes.\nWindrush Bakery trades through its registered company, Windrush Bakery Ltd, which issues every invoice. Windrush Bakery has its head office in Stavanger, where most of its engineers sit.\nEvery Windrush Bakery product is designed in-house.",
+   "facts": {
+    "legal_name": "Windrush Bakery Ltd",
+    "hq_city": "Stavanger"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "windrush-bakery.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/11933459/officers",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-13T09:30:00Z",
+   "true_from": null,
+   "title": "Register entry 11933459",
+   "text": "Current particulars held on file for Windrush Bakery.\nWindrush Bakery Ltd is the registered name entered under number 11933459.\nThe next confirmation statement for Windrush Bakery is due within twelve months.",
+   "facts": {
+    "legal_name": "Windrush Bakery Ltd"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/windrush-bakery",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-09T07:45:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery | firm profile",
+   "text": "Key data about Windrush Bakery at a glance.\nThe Windrush Bakery team works from its headquarters in Stavanger. Windrush Bakery has 103 employees on record.\nData on Windrush Bakery is compiled from public sources.",
+   "facts": {
+    "hq_city": "Stavanger",
+    "headcount_range": "103"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://windrush-bakery.test/team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Our team | Windrush Bakery",
+   "text": "Meet the people who run Windrush Bakery day to day.\nWindrush Bakery chief executive Ingrid Dalton oversees a leadership group of six.\nWindrush Bakery keeps a small management layer and flat teams.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "windrush-bakery.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2025/04/windrush-bakery-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-20T18:00:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery eyes new markets",
+   "text": "The baking company Windrush Bakery is drawing attention from corner cafes.\n\"We are building sourdough loaves for the long run,\" said Ingrid Dalton, chief executive of Windrush Bakery. All told, Windrush Bakery has raised $53.5 million since launch.\nAnalysts expect more consolidation among makers of sourdough loaves, including Windrush Bakery.",
+   "facts": {
+    "ceo": "Ingrid Dalton",
+    "funding_total": "$53.5 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/windrush-bakery",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-02T15:15:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery - listing",
+   "text": "Windrush Bakery, reachable at windrush-bakery.test, appears in our roundup of baking suppliers. The design of the sourdough loaves was refreshed this year. A spokesperson declined to comment on pricing for the sourdough loaves.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/windrush-bakery",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-25T06:30:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery on our directory",
+   "text": "Windrush Bakery posted a new product brochure on windrush-bakery.test this month. Reviews of the sourdough loaves mention quick delivery and clear documentation. A small community event this season showcased the sourdough loaves.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/09/what-is-new-at-windrush-bakery",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-09-07T18:15:00Z",
+   "true_from": null,
+   "title": "What is new at Windrush Bakery",
+   "text": "Windrush Bakery updated windrush-bakery.test with case studies from corner cafes. The sourdough loaves will be on display at an upcoming conference. Our directory files the sourdough loaves under baking.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/08/windrush-bakery-on-show",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-19T07:30:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery on show",
+   "text": "Visitors to windrush-bakery.test can request a callback from the Windrush Bakery sales desk. Partners resell the sourdough loaves in neighbouring markets. The sourdough loaves featured in a panel on the future of baking.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/windrush-bakery",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-13T18:00:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery supplier profile",
+   "text": "This listing covers Windrush Bakery, whose website is windrush-bakery.test. Customer reviews rate the sourdough loaves highly for support. Several corner cafes have written about their experience with the sourdough loaves.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/windrush-bakery",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-25T20:45:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery contact details",
+   "text": "Readers can find Windrush Bakery online at windrush-bakery.test, where it lists its sourdough loaves. A newsletter about the sourdough loaves goes out to corner cafes. A regional distributor now carries the sourdough loaves.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://marketwatcher-news.test/2025/05/windrush-bakery-updates-its-sourdough-loaves",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-14T15:15:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery updates its sourdough loaves",
+   "text": "The windrush-bakery.test site of Windrush Bakery now carries a page for corner cafes. Questions from corner cafes about the sourdough loaves were answered in a live webinar. The sourdough loaves range is sold through a network of resellers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "marketwatcher-news.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/windrush-bakery",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-09T12:00:00Z",
+   "true_from": null,
+   "title": "Windrush Bakery | directory entry",
+   "text": "Windrush Bakery uses windrush-bakery.test to announce its trade show dates. A demonstration of the sourdough loaves drew a steady crowd on the opening day. A blog covers practical tips on the sourdough loaves for corner cafes.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://windrush-bakery.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2023-09-20",
+   "title": "Leadership and investors",
+   "text": "The people steering windrush-bakery.test are listed below.\nTobias Lowther serves as windrush-bakery.test chief financial officer. Redfern Equity participated in a round for windrush-bakery.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "windrush-bakery.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "founded_year",
+     "value": 2008,
+     "url": "https://companies-register.test/entity/11933459",
+     "excerpt": "Windrush Bakery was incorporated in 2008."
+    }
+   ],
+   "1": [
+    {
+     "field": "founded_year",
+     "value": 2008,
+     "url": "https://companies-register.test/entity/11933459",
+     "excerpt": "Windrush Bakery was incorporated in 2008."
+    }
+   ]
+  }
+ }
+}

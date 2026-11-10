@@ -1,0 +1,323 @@
+{
+ "domain": "ashgrove-solar.test",
+ "names": [
+  "Ashgrove Solar"
+ ],
+ "pages": [
+  {
+   "url": "https://ashgrove-solar.test/about",
+   "kind": "own",
+   "epochs": [
+    0
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Ashgrove Solar | Company",
+   "text": "At Ashgrove Solar, we build balcony solar kits that apartment owners rely on every day.\nAshgrove Solar trades under the registered name Ashgrove Solar GmbH in all of its markets. Ashgrove Solar was established in 2019 as a two-person project.\nCustomers of Ashgrove Solar include apartment owners in more than a dozen countries.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ashgrove-solar.test"
+   }
+  },
+  {
+   "url": "https://ashgrove-solar.test/about",
+   "kind": "own",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-03-14T19:00:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar | Company",
+   "text": "At Ashgrove Solar, we build balcony solar kits that apartment owners rely on every day.\nAshgrove Solar trades under the registered name Ashgrove Solar GmbH in all of its markets. Ashgrove Solar is headquartered in Cork. Ashgrove Solar was established in 2019 as a two-person project.\nCustomers of Ashgrove Solar include apartment owners in more than a dozen countries.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ashgrove-solar.test"
+   }
+  },
+  {
+   "url": "https://ashgrove-solar.test/team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Ashgrove Solar leadership",
+   "text": "The leadership of Ashgrove Solar brings decades of solar energy experience.\nMarcus Mensah serves as CEO of Ashgrove Solar.\nAshgrove Solar keeps a small management layer and flat teams.",
+   "facts": {
+    "ceo": "Marcus Mensah"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ashgrove-solar.test"
+   }
+  },
+  {
+   "url": "https://businessbeat.test/2025/09/ashgrove-solar-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0
+   ],
+   "published_at": "2025-09-14T18:30:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar eyes new markets",
+   "text": "The solar energy company Ashgrove Solar is drawing attention from apartment owners.\n\"Our customers asked for this,\" said Ashgrove Solar CEO Marcus Mensah. Investors have put $21.5 million of investment into Ashgrove Solar so far.\nAshgrove Solar said demand for balcony solar kits keeps rising.",
+   "facts": {
+    "ceo": "Marcus Mensah",
+    "funding_total": "$21.5 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "businessbeat.test"
+   }
+  },
+  {
+   "url": "https://businessbeat.test/2025/09/ashgrove-solar-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-04-01T08:45:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar eyes new markets",
+   "text": "The solar energy company Ashgrove Solar is drawing attention from apartment owners.\n\"Our customers asked for this,\" said Ashgrove Solar CEO Marcus Mensah.\nAshgrove Solar said demand for balcony solar kits keeps rising.",
+   "facts": {
+    "ceo": "Marcus Mensah"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "businessbeat.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/ashgrove-solar",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-25T19:30:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar - company data",
+   "text": "Summary listing for Ashgrove Solar (solar energy).\nYear established for Ashgrove Solar is 2019. Ashgrove Solar reports a headcount of 25.\nFigures for Ashgrove Solar may lag the company's own reporting.",
+   "facts": {
+    "founded_year": "2019",
+    "headcount_range": "25"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/ashgrove-solar",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-18T18:45:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar supplier profile",
+   "text": "Ashgrove Solar uses ashgrove-solar.test to announce its trade show dates. A spokesperson declined to comment on pricing for the balcony solar kits. New customers can request a trial of the balcony solar kits.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/12/ashgrove-solar-on-show",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-04T06:15:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar on show",
+   "text": "Ashgrove Solar (ashgrove-solar.test) showed its balcony solar kits to visitors at a regional trade fair. Questions from apartment owners about the balcony solar kits were answered in a live webinar. A regional distributor now carries the balcony solar kits.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://marketwatcher-news.test/2025/05/ashgrove-solar-in-brief",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-24T09:30:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar in brief",
+   "text": "Readers can find Ashgrove Solar online at ashgrove-solar.test, where it lists its balcony solar kits. The balcony solar kits will be on display at an upcoming conference. The balcony solar kits was shortlisted for an industry award.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "marketwatcher-news.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/ashgrove-solar",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-23T20:30:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar contact details",
+   "text": "Ashgrove Solar posted a new product brochure on ashgrove-solar.test this month. A newsletter about the balcony solar kits goes out to apartment owners. The online shop for the balcony solar kits moved to a new platform.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2025/11/what-is-new-at-ashgrove-solar",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-26T17:00:00Z",
+   "true_from": null,
+   "title": "What is new at Ashgrove Solar",
+   "text": "Ashgrove Solar, reachable at ashgrove-solar.test, appears in our roundup of solar energy suppliers. A small community event this season showcased the balcony solar kits. A blog covers practical tips on the balcony solar kits for apartment owners.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/ashgrove-solar",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-28T12:15:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar - listing",
+   "text": "Visitors to ashgrove-solar.test can request a callback from the Ashgrove Solar sales desk. Prices for the balcony solar kits are available on request. Partners resell the balcony solar kits in neighbouring markets.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/ashgrove-solar",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-19T14:45:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar | directory entry",
+   "text": "Ashgrove Solar updated ashgrove-solar.test with case studies from apartment owners. The balcony solar kits featured in a panel on the future of solar energy. Customer reviews rate the balcony solar kits highly for support.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2026/01/a-closer-look-at-ashgrove-solar",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-15T10:30:00Z",
+   "true_from": null,
+   "title": "A closer look at Ashgrove Solar",
+   "text": "A reader pointed us to ashgrove-solar.test, the website of Ashgrove Solar. Several apartment owners have written about their experience with the balcony solar kits. The design of the balcony solar kits was refreshed this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/ashgrove-solar",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-19T10:45:00Z",
+   "true_from": null,
+   "title": "Ashgrove Solar on our directory",
+   "text": "This listing covers Ashgrove Solar, whose website is ashgrove-solar.test. A demonstration of the balcony solar kits drew a steady crowd on the opening day. Our directory files the balcony solar kits under solar energy.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://ashgrove-solar.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2024-02-06",
+   "title": "Who runs and backs us",
+   "text": "The people steering ashgrove-solar.test are listed below.\nashgrove-solar.test COO Tobias Garrow looks after daily operations. Anika Jessop serves as ashgrove-solar.test chief technology officer.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ashgrove-solar.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/60955721/shareholders",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-15T18:45:00Z",
+   "true_from": null,
+   "title": "Register entry 60955721",
+   "text": "ashgrove-solar.test keeps this page for shareholders and partners.\nMarlowe Equity is recorded as an investor in ashgrove-solar.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {}
+ }
+}

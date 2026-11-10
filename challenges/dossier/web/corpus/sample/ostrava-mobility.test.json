@@ -1,0 +1,365 @@
+{
+ "domain": "ostrava-mobility.test",
+ "names": [
+  "Ostrava Mobility"
+ ],
+ "pages": [
+  {
+   "url": "https://ostrava-mobility-group.test/about-us",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-17T15:45:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility - Official site",
+   "text": "Ostrava Mobility - smarter shared cargo e-bikes for city delivery couriers.\nElena Brennan serves as CEO of Ostrava Mobility.\nContact Ostrava Mobility for pricing.",
+   "facts": {
+    "ceo": "Elena Brennan"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "sitebuilder-hosting.test"
+   }
+  },
+  {
+   "url": "https://ostrava-mobility.test/team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Our team | Ostrava Mobility",
+   "text": "Meet the people who run Ostrava Mobility day to day.\nLeila Varga is the chief executive of Ostrava Mobility.\nThe Ostrava Mobility leaders visit customers every quarter.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ostrava-mobility.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/04/ostrava-mobility-bets-on-shared-cargo-e-bikes",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-04T19:00:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility bets on shared cargo e-bikes",
+   "text": "The urban transport company Ostrava Mobility is drawing attention from city delivery couriers.\nOstrava Mobility has raised $71.5M in total equity funding.\nAnalysts expect more consolidation among makers of shared cargo e-bikes, including Ostrava Mobility.",
+   "facts": {
+    "funding_total": "$71.5M"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://the-ledger-post.test/2026/03/ostrava-mobility-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-03-07T14:00:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility eyes new markets",
+   "text": "Ostrava Mobility is one of the faster-growing names in urban transport.\nTotal funding for Ostrava Mobility now stands at US$76.5 million.\nOstrava Mobility said demand for shared cargo e-bikes keeps rising.",
+   "facts": {
+    "funding_total": "US$76.5 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-ledger-post.test"
+   }
+  },
+  {
+   "url": "https://ostrava-mobility.test/company",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "About Ostrava Mobility",
+   "text": "Ostrava Mobility makes shared cargo e-bikes for city delivery couriers.\nThe registered name of Ostrava Mobility is Ostrava Mobility s.r.o., and that name is on every contract. Based in Dayton, Ostrava Mobility serves customers across the region. Ostrava Mobility has been operating since it was founded in 2019.\nThe Ostrava Mobility support desk answers within one business day.",
+   "facts": {
+    "hq_city": "Dayton",
+    "founded_year": "2019"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ostrava-mobility.test"
+   },
+   "static_text": "Ostrava Mobility makes shared cargo e-bikes for city delivery couriers.\nThe registered name of Ostrava Mobility is Ostrava Mobility Holdings s.r.o., and that name is on every contract. Turn on JavaScript to view the latest numbers. Based in Dayton, Ostrava Mobility serves customers across the region. Ostrava Mobility has been operating since it was founded in 2019.\nThe Ostrava Mobility support desk answers within one business day."
+  },
+  {
+   "url": "https://startupindex.test/companies/ostrava-mobility",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-16T20:15:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility at a glance",
+   "text": "Key data about Ostrava Mobility at a glance.\nEstimated staff at Ostrava Mobility: 4,084 employees. Ostrava Mobility s.r.o. is the registered company behind the Ostrava Mobility brand.\nFigures for Ostrava Mobility may lag the company's own reporting.",
+   "facts": {
+    "headcount_range": "4,084",
+    "legal_name": "Ostrava Mobility s.r.o."
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/ostrava-mobility",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-21T10:30:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility - listing",
+   "text": "Ostrava Mobility, reachable at ostrava-mobility.test, appears in our roundup of urban transport suppliers. Questions from city delivery couriers about the shared cargo e-bikes were answered in a live webinar. Reviews of the shared cargo e-bikes mention quick delivery and clear documentation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/ostrava-mobility",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-23T16:15:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility | directory entry",
+   "text": "Readers can find Ostrava Mobility online at ostrava-mobility.test, where it lists its shared cargo e-bikes. A small community event this season showcased the shared cargo e-bikes. The shared cargo e-bikes range is sold through a network of resellers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/ostrava-mobility",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-03T10:15:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility supplier profile",
+   "text": "Ostrava Mobility updated ostrava-mobility.test with case studies from city delivery couriers. Customer reviews rate the shared cargo e-bikes highly for support. A spokesperson declined to comment on pricing for the shared cargo e-bikes.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/ostrava-mobility",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-11T09:00:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility contact details",
+   "text": "The ostrava-mobility.test site of Ostrava Mobility now carries a page for city delivery couriers. A demonstration of the shared cargo e-bikes drew a steady crowd on the opening day. A newsletter about the shared cargo e-bikes goes out to city delivery couriers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2025/04/supplier-roundup-ostrava-mobility",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-15T08:45:00Z",
+   "true_from": null,
+   "title": "Supplier roundup: Ostrava Mobility",
+   "text": "This listing covers Ostrava Mobility, whose website is ostrava-mobility.test. The shared cargo e-bikes will be on display at an upcoming conference. Several city delivery couriers have written about their experience with the shared cargo e-bikes.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/10/a-closer-look-at-ostrava-mobility",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-18T06:45:00Z",
+   "true_from": null,
+   "title": "A closer look at Ostrava Mobility",
+   "text": "Ostrava Mobility posted a new product brochure on ostrava-mobility.test this month. The shared cargo e-bikes was shortlisted for an industry award. Our directory files the shared cargo e-bikes under urban transport.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/ostrava-mobility",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-09-15T06:15:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility on our directory",
+   "text": "A reader pointed us to ostrava-mobility.test, the website of Ostrava Mobility. A blog covers practical tips on the shared cargo e-bikes for city delivery couriers. Prices for the shared cargo e-bikes are available on request.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/11/ostrava-mobility-at-the-trade-fair",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-22T12:45:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility at the trade fair",
+   "text": "Ostrava Mobility uses ostrava-mobility.test to announce its trade show dates. The design of the shared cargo e-bikes was refreshed this year. The online shop for the shared cargo e-bikes moved to a new platform.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/11/ostrava-mobility-on-show",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-04T16:15:00Z",
+   "true_from": null,
+   "title": "Ostrava Mobility on show",
+   "text": "Visitors to ostrava-mobility.test can request a callback from the Ostrava Mobility sales desk. New customers can request a trial of the shared cargo e-bikes. Partners resell the shared cargo e-bikes in neighbouring markets.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://ostrava-mobility.test/about/leadership",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2022-03-23",
+   "title": "Who runs and backs us",
+   "text": "This is who leads ostrava-mobility.test today.\nThe finance team at ostrava-mobility.test reports to CFO Anika Ellery. Petra Beaumont serves as ostrava-mobility.test chief operating officer. Redfern Equity participated in a round for ostrava-mobility.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ostrava-mobility.test"
+   }
+  },
+  {
+   "url": "https://companyfile.test/companies/ostrava-mobility/people",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2020-12-21T20:15:00Z",
+   "true_from": null,
+   "title": "Key people at ostrava-mobility.test",
+   "text": "ostrava-mobility.test COO: Petra Kerrigan.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyfile.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2025/12/new-backer-for-ostrava-mobility",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-12T14:30:00Z",
+   "true_from": null,
+   "title": "New backer for ostrava-mobility.test",
+   "text": "Thornbury Ventures joined the investors in ostrava-mobility.test this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://techcurrent.test/2025/06/who-is-behind-ostrava-mobility",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-17T15:15:00Z",
+   "true_from": null,
+   "title": "Who is behind ostrava-mobility.test",
+   "text": "ostrava-mobility.test said the round was led by Thornbury Ventures.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "techcurrent.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {}
+ }
+}

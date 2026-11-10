@@ -1,0 +1,425 @@
+{
+ "domain": "larkspur-health.test",
+ "names": [
+  "Larkspur Health"
+ ],
+ "pages": [
+  {
+   "url": "https://eveningpost.test/2025/08/larkspur-health-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-17T14:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health eyes new markets",
+   "text": "The digital health company Larkspur Health is drawing attention from outpatient clinics.\nLarkspur Health has raised US$28 million from investors to date.\nDemand for remote physiotherapy apps has grown quickly among outpatient clinics, Larkspur Health said.",
+   "facts": {
+    "funding_total": "US$28 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "postmedia-group.test"
+   }
+  },
+  {
+   "url": "https://weekendpost.test/2025/04/inside-the-rise-of-larkspur-health",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-17T08:30:00Z",
+   "true_from": null,
+   "title": "Inside the rise of Larkspur Health",
+   "text": "Larkspur Health, which sells remote physiotherapy apps, has had a busy year.\nLarkspur Health has raised US$28 million in total equity funding.\nLarkspur Health said demand for remote physiotherapy apps keeps rising.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "postmedia-group.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/28330914",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": "2025-08-25T16:15:00Z",
+   "true_from": null,
+   "title": "Register entry 28330914",
+   "text": "Public record of Larkspur Health as kept by the register.\nAmara Iyer is recorded as chief executive and director of Larkspur Health.\nThe next confirmation statement for Larkspur Health is due within twelve months.",
+   "facts": {
+    "ceo": "Amara Iyer"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://larkspur-health.test/about",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Larkspur Health | Company",
+   "text": "Larkspur Health makes remote physiotherapy apps for outpatient clinics.\nLarkspur Health trades through its registered company, Larkspur Health B.V., which issues every invoice. Larkspur Health is based in Plzen. Larkspur Health was established in 2018 as a two-person project.\nEvery Larkspur Health product is designed in-house.",
+   "facts": {
+    "legal_name": "Larkspur Health B.V.",
+    "founded_year": "2018"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "larkspur-health.test"
+   },
+   "static_text": "Larkspur Health makes remote physiotherapy apps for outpatient clinics.\nLarkspur Health trades through its registered company, Larkspur Health B.V., which issues every invoice. Larkspur Health is based in Austin. Turn on JavaScript to view the latest numbers. Larkspur Health was established in 2018 as a two-person project.\nEvery Larkspur Health product is designed in-house."
+  },
+  {
+   "url": "https://companies-register.test/entity/28330914/officers",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-07T12:45:00Z",
+   "true_from": null,
+   "title": "Company record 28330914",
+   "text": "Current particulars held on file for Larkspur Health.\nThe register records Larkspur Health B.V. as the registered name of the company trading as Larkspur Health.\nNo charges are registered against Larkspur Health.",
+   "facts": {
+    "legal_name": "Larkspur Health B.V."
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/larkspur-health",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-09-19T20:00:00Z",
+   "true_from": null,
+   "title": "Larkspur Health - company data",
+   "text": "Summary listing for Larkspur Health (digital health).\nLarkspur Health is headquartered in Plzen.\nThis Larkspur Health profile was last reviewed by our research desk.",
+   "facts": {
+    "hq_city": "Plzen"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/11/larkspur-health-widens-its-reach",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-22T10:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health widens its reach",
+   "text": "Larkspur Health is one of the faster-growing names in digital health.\nAnalysts expect more consolidation among makers of remote physiotherapy apps, including Larkspur Health.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://pressline.test/2025/04/larkspur-health-bets-on-remote-physiotherapy-apps",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-09T20:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health bets on remote physiotherapy apps",
+   "text": "Larkspur Health employs about 742 people.\nLarkspur Health plans to open two new markets before the end of the year.",
+   "facts": {
+    "headcount_range": "742"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "pressline.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2025/04/larkspur-health-bets-on-remote-physiotherapy-apps",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": "2025-04-10T01:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health bets on remote physiotherapy apps",
+   "text": "Larkspur Health employs about 742 people.\nLarkspur Health plans to open two new markets before the end of the year. This report on Larkspur Health first appeared on Pressline.",
+   "facts": {
+    "headcount_range": "742"
+   },
+   "lineage": {
+    "canonical": "https://pressline.test/2025/04/larkspur-health-bets-on-remote-physiotherapy-apps",
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://the-ledger-post.test/2025/04/larkspur-health-bets-on-remote-physiotherapy-apps",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-10T20:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health bets on remote physiotherapy apps",
+   "text": "Larkspur Health employs about 742 people.\nLarkspur Health plans to open two new markets before the end of the year. Pressline distributed this story about Larkspur Health.",
+   "facts": {
+    "headcount_range": "742"
+   },
+   "lineage": {
+    "canonical": "https://metroherald.test/2025/04/larkspur-health-bets-on-remote-physiotherapy-apps",
+    "first_published_by": null,
+    "registrant": "the-ledger-post.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/larkspur-health",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-18T10:00:00Z",
+   "true_from": null,
+   "title": "Larkspur Health - listing",
+   "text": "Larkspur Health, reachable at larkspur-health.test, appears in our roundup of digital health suppliers. The remote physiotherapy apps will be on display at an upcoming conference. The remote physiotherapy apps was shortlisted for an industry award.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/04/a-closer-look-at-larkspur-health",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-22T12:15:00Z",
+   "true_from": null,
+   "title": "A closer look at Larkspur Health",
+   "text": "Larkspur Health posted a new product brochure on larkspur-health.test this month. The remote physiotherapy apps featured in a panel on the future of digital health. A regional distributor now carries the remote physiotherapy apps.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/08/spotlight-larkspur-health",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-18T15:15:00Z",
+   "true_from": null,
+   "title": "Spotlight: Larkspur Health",
+   "text": "Larkspur Health (larkspur-health.test) showed its remote physiotherapy apps to visitors at a regional trade fair. New customers can request a trial of the remote physiotherapy apps. A demonstration of the remote physiotherapy apps drew a steady crowd on the opening day.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/larkspur-health",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-05T14:00:00Z",
+   "true_from": null,
+   "title": "Larkspur Health supplier profile",
+   "text": "Larkspur Health uses larkspur-health.test to announce its trade show dates. Our directory files the remote physiotherapy apps under digital health. Prices for the remote physiotherapy apps are available on request.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://marketwatcher-news.test/2025/12/larkspur-health-at-the-trade-fair",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-24T15:45:00Z",
+   "true_from": null,
+   "title": "Larkspur Health at the trade fair",
+   "text": "Visitors to larkspur-health.test can request a callback from the Larkspur Health sales desk. The remote physiotherapy apps range is sold through a network of resellers. Reviews of the remote physiotherapy apps mention quick delivery and clear documentation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "marketwatcher-news.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2025/06/what-is-new-at-larkspur-health",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-09T12:45:00Z",
+   "true_from": null,
+   "title": "What is new at Larkspur Health",
+   "text": "This listing covers Larkspur Health, whose website is larkspur-health.test. Customer reviews rate the remote physiotherapy apps highly for support. A newsletter about the remote physiotherapy apps goes out to outpatient clinics.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/07/larkspur-health-updates-its-remote-physiotherapy-apps",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-02T17:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health updates its remote physiotherapy apps",
+   "text": "Readers can find Larkspur Health online at larkspur-health.test, where it lists its remote physiotherapy apps. Partners resell the remote physiotherapy apps in neighbouring markets. A small community event this season showcased the remote physiotherapy apps.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/larkspur-health",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-22T08:30:00Z",
+   "true_from": null,
+   "title": "Larkspur Health on our directory",
+   "text": "The larkspur-health.test site of Larkspur Health now carries a page for outpatient clinics. Several outpatient clinics have written about their experience with the remote physiotherapy apps. The design of the remote physiotherapy apps was refreshed this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://larkspur-health.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2024-04-24",
+   "title": "Leadership and investors",
+   "text": "The people steering larkspur-health.test are listed below.\nThe finance team at larkspur-health.test reports to CFO Selma Garrow. Rowan Lowther serves as larkspur-health.test chief technology officer. Greyfriars Holdings is an investor in larkspur-health.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "larkspur-health.test"
+   }
+  },
+  {
+   "url": "https://larkspur-health.test/operations",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "How we operate",
+   "text": "Anika Drummond serves as larkspur-health.test chief operating officer.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "larkspur-health.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/28330914/allotments",
+   "kind": "filing",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-04-09T10:30:00Z",
+   "true_from": "2020-10-01",
+   "title": "Register entry 28330914",
+   "text": "Thornbury Ventures is recorded as an investor in larkspur-health.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "ceo",
+     "value": "Amara Iyer",
+     "url": "https://companies-register.test/entity/28330914",
+     "excerpt": "Amara Iyer is recorded as chief executive and director of Larkspur Health."
+    }
+   ],
+   "1": [
+    {
+     "field": "ceo",
+     "value": "Amara Iyer",
+     "url": "https://companies-register.test/entity/28330914",
+     "excerpt": "Amara Iyer is recorded as chief executive and director of Larkspur Health."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,393 @@
+{
+ "domain": "quillmate.test",
+ "names": [
+  "Quillmate"
+ ],
+ "pages": [
+  {
+   "url": "https://the-ledger-post.test/2025/06/inside-the-rise-of-quillmate",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-24T13:45:00Z",
+   "true_from": null,
+   "title": "Inside the rise of Quillmate",
+   "text": "Quillmate is one of the faster-growing names in legal software.\nQuillmate hired Nadia Lindqvist to lead its sales team in Europe.\nQuillmate said demand for contract drafting tools keeps rising.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-ledger-post.test"
+   }
+  },
+  {
+   "url": "https://pressline.test/2025/06/quillmate-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-06T19:00:00Z",
+   "true_from": null,
+   "title": "Quillmate eyes new markets",
+   "text": "The legal software company Quillmate is drawing attention from mid-sized law firms.\nInvestors have put $28.5 million of investment into Quillmate so far.\nDemand for contract drafting tools has grown quickly among mid-sized law firms, Quillmate said.",
+   "facts": {
+    "funding_total": "$28.5 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "pressline.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/06/quillmate-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-07T00:00:00Z",
+   "true_from": null,
+   "title": "Quillmate eyes new markets",
+   "text": "The legal software company Quillmate is drawing attention from mid-sized law firms.\nInvestors have put $28.5 million of investment into Quillmate so far.\nDemand for contract drafting tools has grown quickly among mid-sized law firms, Quillmate said. This report on Quillmate first appeared on Pressline.",
+   "facts": {
+    "funding_total": "$28.5 million"
+   },
+   "lineage": {
+    "canonical": "https://pressline.test/2025/06/quillmate-eyes-new-markets",
+    "first_published_by": "pressline.test",
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://businessbeat.test/2025/06/quillmate-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-07T19:00:00Z",
+   "true_from": null,
+   "title": "Quillmate eyes new markets",
+   "text": "The legal software company Quillmate is drawing attention from mid-sized law firms.\nInvestors have put $28.5 million of investment into Quillmate so far.\nDemand for contract drafting tools has grown quickly among mid-sized law firms, Quillmate said. Pressline distributed this story about Quillmate.",
+   "facts": {
+    "funding_total": "$28.5 million"
+   },
+   "lineage": {
+    "canonical": "https://pressline.test/2025/06/quillmate-eyes-new-markets",
+    "first_published_by": "pressline.test",
+    "registrant": "businessbeat.test"
+   }
+  },
+  {
+   "url": "https://quillmate.test/careers",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": null,
+   "true_from": null,
+   "title": "Careers at Quillmate",
+   "text": "Quillmate is hiring across engineering and operations.\nQuillmate has a team of roughly 416 employees.\nOpen roles at Quillmate are posted here first.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "quillmate.test"
+   }
+  },
+  {
+   "url": "https://quillmate.test/about",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "About Quillmate",
+   "text": "Quillmate makes contract drafting tools for mid-sized law firms.\nThe registered name of Quillmate is Quillmate Ltd, and that name is on every contract. Quillmate has its head office in Manchester, where most of its engineers sit.\nThe Quillmate support desk answers within one business day.",
+   "facts": {
+    "legal_name": "Quillmate Ltd"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "quillmate.test"
+   },
+   "static_text": "Quillmate makes contract drafting tools for mid-sized law firms.\nThe registered name of Quillmate is Quillmate Ltd, and that name is on every contract. Quillmate has its head office in Brno, where most of its engineers sit. Current figures: loading.\nThe Quillmate support desk answers within one business day."
+  },
+  {
+   "url": "https://companies-register.test/entity/35771382/officers",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-14T17:00:00Z",
+   "true_from": null,
+   "title": "Company record 35771382",
+   "text": "Current particulars held on file for Quillmate.\nQuillmate Ltd is the registered name entered under number 35771382.\nThe next confirmation statement for Quillmate is due within twelve months.",
+   "facts": {
+    "legal_name": "Quillmate Ltd"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/quillmate",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-18T16:45:00Z",
+   "true_from": null,
+   "title": "Quillmate at a glance",
+   "text": "Summary listing for Quillmate (legal software).\nQuillmate was established in 2013.\nThis Quillmate profile was last reviewed by our research desk.",
+   "facts": {
+    "founded_year": "2013"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2026/03/quillmate-widens-its-reach",
+   "kind": "news",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-03-27T11:45:00Z",
+   "true_from": null,
+   "title": "Quillmate widens its reach",
+   "text": "Quillmate, which sells contract drafting tools, has had a busy year.\nQuillmate was established in 2013 as a two-person project.\nQuillmate plans to open two new markets before the end of the year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://techcurrent.test/2025/12/quillmate-bets-on-contract-drafting-tools",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-01T09:30:00Z",
+   "true_from": null,
+   "title": "Quillmate bets on contract drafting tools",
+   "text": "Quillmate plans to be registered as Quillmate Holdings Ltd after its merger.\nAnalysts expect more consolidation among makers of contract drafting tools, including Quillmate.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "techcurrent.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2026/01/quillmate-talks-to-mid-sized-law-firms",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-07T17:00:00Z",
+   "true_from": null,
+   "title": "Quillmate talks to mid-sized law firms",
+   "text": "Quillmate (quillmate.test) showed its contract drafting tools to visitors at a regional trade fair. Several mid-sized law firms have written about their experience with the contract drafting tools. The online shop for the contract drafting tools moved to a new platform.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/quillmate",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-19T17:30:00Z",
+   "true_from": null,
+   "title": "Quillmate - listing",
+   "text": "The quillmate.test site of Quillmate now carries a page for mid-sized law firms. The contract drafting tools was shortlisted for an industry award. A spokesperson declined to comment on pricing for the contract drafting tools.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2025/07/quillmate-at-the-trade-fair",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-19T15:15:00Z",
+   "true_from": null,
+   "title": "Quillmate at the trade fair",
+   "text": "Quillmate posted a new product brochure on quillmate.test this month. Prices for the contract drafting tools are available on request. Partners resell the contract drafting tools in neighbouring markets.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/quillmate",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-22T11:00:00Z",
+   "true_from": null,
+   "title": "Quillmate supplier profile",
+   "text": "Quillmate updated quillmate.test with case studies from mid-sized law firms. The contract drafting tools will be on display at an upcoming conference. A regional distributor now carries the contract drafting tools.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/12/a-closer-look-at-quillmate",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-06T06:45:00Z",
+   "true_from": null,
+   "title": "A closer look at Quillmate",
+   "text": "Readers can find Quillmate online at quillmate.test, where it lists its contract drafting tools. The contract drafting tools featured in a panel on the future of legal software. Customer reviews rate the contract drafting tools highly for support.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/quillmate",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-11T14:15:00Z",
+   "true_from": null,
+   "title": "Quillmate | directory entry",
+   "text": "Quillmate uses quillmate.test to announce its trade show dates. Reviews of the contract drafting tools mention quick delivery and clear documentation. The design of the contract drafting tools was refreshed this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/11/quillmate-in-the-community",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-08T06:45:00Z",
+   "true_from": null,
+   "title": "Quillmate in the community",
+   "text": "Visitors to quillmate.test can request a callback from the Quillmate sales desk. A small community event this season showcased the contract drafting tools. New customers can request a trial of the contract drafting tools.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://quillmate.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    0
+   ],
+   "published_at": null,
+   "true_from": "2022-02-21",
+   "title": "Who runs and backs us",
+   "text": "The people steering quillmate.test are listed below.\nThe finance team at quillmate.test reports to CFO Mateo Jessop. Rowan Carrick serves as quillmate.test chief operating officer. quillmate.test CTO Selma Ingram leads product engineering. quillmate.test is backed by Redfern Equity. Greyfriars Holdings is an investor in quillmate.test. Investors in quillmate.test include Silverbirch Investments and Fallowfield Holdings.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "quillmate.test"
+   }
+  },
+  {
+   "url": "https://quillmate.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    1
+   ],
+   "published_at": null,
+   "true_from": "2026-04-24",
+   "title": "Who runs and backs us",
+   "text": "The people steering quillmate.test are listed below.\nTobias Carrick is the chief financial officer of quillmate.test. Rowan Carrick serves as quillmate.test chief operating officer. quillmate.test CTO Selma Ingram leads product engineering. quillmate.test is backed by Redfern Equity. Greyfriars Holdings is an investor in quillmate.test. Investors in quillmate.test include Silverbirch Investments and Fallowfield Holdings.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "quillmate.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "ceo",
+     "value": "Nadia Lindqvist",
+     "url": "https://the-ledger-post.test/2025/06/inside-the-rise-of-quillmate",
+     "excerpt": "Quillmate hired Nadia Lindqvist to lead its sales team in Europe."
+    },
+    {
+     "field": "headcount_range",
+     "value": "201-500",
+     "url": "https://quillmate.test/careers",
+     "excerpt": "Quillmate has a team of roughly 416 employees."
+    }
+   ],
+   "1": [
+    {
+     "field": "ceo",
+     "value": "Nadia Lindqvist",
+     "url": "https://the-ledger-post.test/2025/06/inside-the-rise-of-quillmate",
+     "excerpt": "Quillmate hired Nadia Lindqvist to lead its sales team in Europe."
+    },
+    {
+     "field": "headcount_range",
+     "value": "201-500",
+     "url": "https://quillmate.test/careers",
+     "excerpt": "Quillmate has a team of roughly 416 employees."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,433 @@
+{
+ "domain": "brightwater-labs.test",
+ "names": [
+  "Brightwater Labs"
+ ],
+ "pages": [
+  {
+   "url": "https://companyfile.test/companies/brightwater-labs",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-28T17:15:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs | firm profile",
+   "text": "Key data about Brightwater Labs at a glance.\nEstimated staff at Brightwater Labs: 130 employees. Year established for Brightwater Labs is 2010.\nData on Brightwater Labs is compiled from public sources.",
+   "facts": {
+    "headcount_range": "130",
+    "founded_year": "2010"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyfile.test"
+   }
+  },
+  {
+   "url": "https://firmographics.test/companies/brightwater-labs",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-03T09:30:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs at a glance",
+   "text": "Summary listing for Brightwater Labs (water technology).\nBrightwater Labs reports a headcount of 3,722.\nFigures for Brightwater Labs may lag the company's own reporting.",
+   "facts": {
+    "headcount_range": "3,722"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "firmographics.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/10/brightwater-labs-bets-on-low-energy-desalination-units",
+   "kind": "news",
+   "epochs": [
+    0
+   ],
+   "published_at": "2025-10-16T14:15:00Z",
+   "true_from": "2025-10-16",
+   "title": "Brightwater Labs bets on low-energy desalination units",
+   "text": "Brightwater Labs, which sells low-energy desalination units, has had a busy year.\nBrightwater Labs has raised US$48.5 million in total equity funding.\nDemand for low-energy desalination units has grown quickly among island utilities, Brightwater Labs said.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/10/brightwater-labs-bets-on-low-energy-desalination-units",
+   "kind": "news",
+   "epochs": [
+    1
+   ],
+   "published_at": "2025-10-16T14:15:00Z",
+   "true_from": "2025-10-16",
+   "title": "Brightwater Labs bets on low-energy desalination units",
+   "text": "Brightwater Labs, which sells low-energy desalination units, has had a busy year.\nAll told, Brightwater Labs has raised US$42.5 million since launch. This story about Brightwater Labs was updated in March with figures the company confirmed.\nDemand for low-energy desalination units has grown quickly among island utilities, Brightwater Labs said.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/70797957",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": "2025-11-01T08:00:00Z",
+   "true_from": null,
+   "title": "Register entry 70797957",
+   "text": "Public record of Brightwater Labs as kept by the register.\nBrightwater Labs has its registered office in Columbus.\nThe next confirmation statement for Brightwater Labs is due within twelve months.",
+   "facts": {
+    "hq_city": "Columbus"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://brightwater-labs.test/company",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Brightwater Labs | Company",
+   "text": "At Brightwater Labs, we build low-energy desalination units that island utilities rely on every day.\nBrightwater Labs trades through its registered company, Brightwater Labs Inc., which issues every invoice.\nThe Brightwater Labs support desk answers within one business day.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "brightwater-labs.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/70797957/officers",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-09T13:15:00Z",
+   "true_from": null,
+   "title": "Company record 70797957",
+   "text": "Current particulars held on file for Brightwater Labs.\nThe register records Brightwater Labs Inc. as the registered name of the company trading as Brightwater Labs.\nNo charges are registered against Brightwater Labs.",
+   "facts": {
+    "legal_name": "Brightwater Labs Inc."
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://brightwater-labs.test/leadership",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Brightwater Labs leadership",
+   "text": "The leadership of Brightwater Labs brings decades of water technology experience.\nFelix Kowalski is the chief executive of Brightwater Labs.\nThe Brightwater Labs leaders visit customers every quarter.",
+   "facts": {
+    "ceo": "Felix Kowalski"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "brightwater-labs.test"
+   }
+  },
+  {
+   "url": "https://techcurrent.test/2026/04/brightwater-labs-widens-its-reach",
+   "kind": "news",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-04-11T11:15:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs widens its reach",
+   "text": "The water technology company Brightwater Labs is drawing attention from island utilities.\nBrightwater Labs was established in 2010 as a two-person project.\nBrightwater Labs plans to open two new markets before the end of the year.",
+   "facts": {
+    "founded_year": "2010"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": "companyfile.test",
+    "registrant": "techcurrent.test"
+   }
+  },
+  {
+   "url": "https://businessbeat.test/2025/11/brightwater-labs-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-12T16:30:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs eyes new markets",
+   "text": "Brightwater Labs is one of the faster-growing names in water technology.\nLeila Whitfield, the former chief executive of Brightwater Labs, now advises startups.\nAnalysts expect more consolidation among makers of low-energy desalination units, including Brightwater Labs.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "businessbeat.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/brightwater-labs",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-10T15:15:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs supplier profile",
+   "text": "Visitors to brightwater-labs.test can request a callback from the Brightwater Labs sales desk. The low-energy desalination units will be on display at an upcoming conference. A blog covers practical tips on the low-energy desalination units for island utilities.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/10/brightwater-labs-at-the-trade-fair",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-13T12:00:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs at the trade fair",
+   "text": "Brightwater Labs uses brightwater-labs.test to announce its trade show dates. A demonstration of the low-energy desalination units drew a steady crowd on the opening day. A spokesperson declined to comment on pricing for the low-energy desalination units.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2025/11/brightwater-labs-in-the-community",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-10T15:15:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs in the community",
+   "text": "Brightwater Labs (brightwater-labs.test) showed its low-energy desalination units to visitors at a regional trade fair. Our directory files the low-energy desalination units under water technology. Questions from island utilities about the low-energy desalination units were answered in a live webinar.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/brightwater-labs",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-13T11:45:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs | directory entry",
+   "text": "This listing covers Brightwater Labs, whose website is brightwater-labs.test. The low-energy desalination units range is sold through a network of resellers. Prices for the low-energy desalination units are available on request.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/brightwater-labs",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-25T20:00:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs on our directory",
+   "text": "Brightwater Labs posted a new product brochure on brightwater-labs.test this month. New customers can request a trial of the low-energy desalination units. The online shop for the low-energy desalination units moved to a new platform.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/brightwater-labs",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-01T09:15:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs contact details",
+   "text": "Brightwater Labs updated brightwater-labs.test with case studies from island utilities. Customer reviews rate the low-energy desalination units highly for support. A regional distributor now carries the low-energy desalination units.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2026/02/brightwater-labs-on-show",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-01T13:00:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs on show",
+   "text": "Readers can find Brightwater Labs online at brightwater-labs.test, where it lists its low-energy desalination units. The design of the low-energy desalination units was refreshed this year. Reviews of the low-energy desalination units mention quick delivery and clear documentation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://marketwatcher-news.test/2025/06/what-is-new-at-brightwater-labs",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-08T20:45:00Z",
+   "true_from": null,
+   "title": "What is new at Brightwater Labs",
+   "text": "A reader pointed us to brightwater-labs.test, the website of Brightwater Labs. Partners resell the low-energy desalination units in neighbouring markets. The low-energy desalination units featured in a panel on the future of water technology.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "marketwatcher-news.test"
+   }
+  },
+  {
+   "url": "https://brightwater-labs.test/about/leadership",
+   "kind": "own",
+   "epochs": [
+    0
+   ],
+   "published_at": null,
+   "true_from": "2022-10-03",
+   "title": "Leadership and investors",
+   "text": "This is who leads brightwater-labs.test today.\nEngineering at brightwater-labs.test answers to CTO Dmitri Drummond.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "brightwater-labs.test"
+   }
+  },
+  {
+   "url": "https://brightwater-labs.test/about/leadership",
+   "kind": "own",
+   "epochs": [
+    1
+   ],
+   "published_at": null,
+   "true_from": "2022-10-03",
+   "title": "Leadership and investors",
+   "text": "This is who leads brightwater-labs.test today.\nIdris Jessop is the chief technology officer of brightwater-labs.test. brightwater-labs.test revised this list in March.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "brightwater-labs.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/70797957/shareholders",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-22T10:15:00Z",
+   "true_from": null,
+   "title": "Register entry 70797957",
+   "text": "brightwater-labs.test keeps this page for shareholders and partners.\nThe register lists Fallowfield Holdings as an investor in brightwater-labs.test. Thornbury Ventures is recorded as an investor in brightwater-labs.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://getbrightwater-labs.test/about-us",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-07T08:30:00Z",
+   "true_from": null,
+   "title": "Brightwater Labs - Official site",
+   "text": "Welcome to Brightwater Labs, makers of low-energy desalination units.\nBrightwater Labs is backed by Marlowe Equity, the investor that led and participated in its last round.\nContact Brightwater Labs for pricing.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "sitebuilder-hosting.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "hq_city",
+     "value": "Columbus",
+     "url": "https://companies-register.test/entity/70797957",
+     "excerpt": "Brightwater Labs has its registered office in Columbus."
+    }
+   ],
+   "1": [
+    {
+     "field": "hq_city",
+     "value": "Columbus",
+     "url": "https://companies-register.test/entity/70797957",
+     "excerpt": "Brightwater Labs has its registered office in Columbus."
+    }
+   ]
+  }
+ }
+}

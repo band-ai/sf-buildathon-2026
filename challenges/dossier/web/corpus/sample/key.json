@@ -1,0 +1,1280 @@
+{
+ "halvorsen-robotics.test": {
+  "expected": {
+   "1": {
+    "0": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": [
+      "Utrecht",
+      "Valencia"
+     ],
+     "ceo": "Priya Dalton",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000
+    },
+    "1": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": [
+      "Utrecht",
+      "Valencia"
+     ],
+     "ceo": "Marcus Abbott",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000
+    }
+   },
+   "2": {
+    "0": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": "Valencia",
+     "ceo": "Priya Dalton",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000
+    },
+    "1": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": "Valencia",
+     "ceo": "Marcus Abbott",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000
+    }
+   },
+   "3": {
+    "0": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": "Valencia",
+     "ceo": "Priya Dalton",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cto",
+        "name": "Dmitri Fenwick"
+       }
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": "Valencia",
+     "ceo": "Marcus Abbott",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cto",
+        "name": "Dmitri Fenwick"
+       }
+      ]
+     }
+    }
+   },
+   "4": {
+    "0": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": "Valencia",
+     "ceo": "Priya Dalton",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cto",
+        "name": "Dmitri Fenwick"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Marlowe Equity"
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Halvorsen Robotics AS",
+     "hq_city": "Valencia",
+     "ceo": "Marcus Abbott",
+     "founded_year": 2019,
+     "headcount_range": "1001-5000",
+     "funding_total": 75000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cto",
+        "name": "Dmitri Fenwick"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Marlowe Equity"
+      ]
+     }
+    }
+   }
+  },
+  "tags": [
+   "economy",
+   "plain"
+  ],
+  "supports": [
+   {
+    "url": "https://companies-register.test/entity/84134936",
+    "excerpt": "Halvorsen Robotics was incorporated in 2019.",
+    "field": "founded_year",
+    "value": 2019
+   },
+   {
+    "url": "https://halvorsen-robotics.test/company",
+    "excerpt": "Based in Valencia, Halvorsen Robotics serves customers across the region.",
+    "field": "hq_city",
+    "value": "Valencia"
+   },
+   {
+    "url": "https://halvorsen-robotics.test/company",
+    "excerpt": "Halvorsen Robotics trades under the registered name Halvorsen Robotics AS in all of its markets.",
+    "field": "legal_name",
+    "value": "Halvorsen Robotics AS"
+   },
+   {
+    "url": "https://startupindex.test/companies/halvorsen-robotics",
+    "excerpt": "Halvorsen Robotics is headquartered in Utrecht.",
+    "field": "hq_city",
+    "value": "Utrecht"
+   },
+   {
+    "url": "https://startupindex.test/companies/halvorsen-robotics",
+    "excerpt": "Estimated staff at Halvorsen Robotics: 3,148 employees.",
+    "field": "headcount_range",
+    "value": "1001-5000"
+   },
+   {
+    "url": "https://halvorsen-robotics.test/leadership",
+    "excerpt": "As CEO of Halvorsen Robotics, Priya Dalton sets the company's direction.",
+    "field": "ceo",
+    "value": "Priya Dalton"
+   },
+   {
+    "url": "https://halvorsen-robotics.test/leadership",
+    "excerpt": "Halvorsen Robotics is led by chief executive Marcus Abbott.",
+    "field": "ceo",
+    "value": "Marcus Abbott"
+   },
+   {
+    "url": "https://metroherald.test/2026/03/halvorsen-robotics-names-new-chief-executive",
+    "excerpt": "Marcus Abbott took over as chief executive of Halvorsen Robotics this month.",
+    "field": "ceo",
+    "value": "Marcus Abbott"
+   },
+   {
+    "url": "https://companies-register.test/entity/84134936/officers",
+    "excerpt": "The register records Halvorsen Robotics AS as the registered name of the company trading as Halvorsen Robotics.",
+    "field": "legal_name",
+    "value": "Halvorsen Robotics AS"
+   },
+   {
+    "url": "https://techcurrent.test/2025/04/halvorsen-robotics-eyes-new-markets",
+    "excerpt": "Investors have put US$75 million of investment into Halvorsen Robotics so far.",
+    "field": "funding_total",
+    "value": 75000000
+   },
+   {
+    "url": "https://halvorsen-robotics.test/executive-team",
+    "excerpt": "Dmitri Fenwick is the chief technology officer of halvorsen-robotics.test.",
+    "field": "cto",
+    "value": "Dmitri Fenwick"
+   },
+   {
+    "url": "https://halvorsen-robotics.test/executive-team",
+    "excerpt": "halvorsen-robotics.test is backed by Marlowe Equity.",
+    "field": "investors",
+    "value": "Marlowe Equity"
+   }
+  ]
+ },
+ "quillmate.test": {
+  "tags": []
+ },
+ "brightwater-labs.test": {
+  "tags": []
+ },
+ "ostrava-mobility.test": {
+  "tags": [
+   "economy"
+  ]
+ },
+ "pemberton-analytics.test": {
+  "expected": {
+   "1": {
+    "0": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Galway",
+     "ceo": [
+      "Nadia Varga",
+      "Priya Mensah"
+     ],
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000
+    },
+    "1": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Leeds",
+     "ceo": [
+      "Nadia Varga",
+      "Priya Mensah"
+     ],
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000
+    }
+   },
+   "2": {
+    "0": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Galway",
+     "ceo": "Nadia Varga",
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000
+    },
+    "1": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Leeds",
+     "ceo": "Nadia Varga",
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000
+    }
+   },
+   "3": {
+    "0": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Galway",
+     "ceo": "Nadia Varga",
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Dmitri Beaumont"
+       },
+       {
+        "title": "coo",
+        "name": "Selma Lowther"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Ingram"
+       }
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Leeds",
+     "ceo": "Nadia Varga",
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Dmitri Beaumont"
+       },
+       {
+        "title": "coo",
+        "name": "Selma Lowther"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Ingram"
+       }
+      ]
+     }
+    }
+   },
+   "4": {
+    "0": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Galway",
+     "ceo": "Nadia Varga",
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Dmitri Beaumont"
+       },
+       {
+        "title": "coo",
+        "name": "Selma Lowther"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Ingram"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Silverbirch Investments"
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Pemberton Analytics LLC",
+     "hq_city": "Leeds",
+     "ceo": "Nadia Varga",
+     "founded_year": 2011,
+     "headcount_range": "501-1000",
+     "funding_total": 83000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Dmitri Beaumont"
+       },
+       {
+        "title": "coo",
+        "name": "Selma Lowther"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Ingram"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Silverbirch Investments"
+      ]
+     }
+    }
+   }
+  },
+  "tags": [
+   "plain"
+  ],
+  "supports": [
+   {
+    "url": "https://pemberton-analytics.test/leadership",
+    "excerpt": "Nadia Varga is the chief executive of Pemberton Analytics.",
+    "field": "ceo",
+    "value": "Nadia Varga"
+   },
+   {
+    "url": "https://techcurrent.test/2025/05/pemberton-analytics-bets-on-shelf-level-demand-forecasts",
+    "excerpt": "\"Our customers asked for this,\" said Pemberton Analytics CEO Priya Mensah.",
+    "field": "ceo",
+    "value": "Priya Mensah"
+   },
+   {
+    "url": "https://businessbeat.test/2026/01/pemberton-analytics-profile",
+    "excerpt": "Pemberton Analytics has raised $83M in total equity funding.",
+    "field": "funding_total",
+    "value": 83000000
+   },
+   {
+    "url": "https://pemberton-analytics.test/company",
+    "excerpt": "Based in Galway, Pemberton Analytics serves customers across the region.",
+    "field": "hq_city",
+    "value": "Galway"
+   },
+   {
+    "url": "https://pemberton-analytics.test/company",
+    "excerpt": "Pemberton Analytics has its head office in Leeds, where most of its engineers sit.",
+    "field": "hq_city",
+    "value": "Leeds"
+   },
+   {
+    "url": "https://pemberton-analytics.test/company",
+    "excerpt": "The registered name of Pemberton Analytics is Pemberton Analytics LLC, and that name is on every contract.",
+    "field": "legal_name",
+    "value": "Pemberton Analytics LLC"
+   },
+   {
+    "url": "https://companyfile.test/companies/pemberton-analytics",
+    "excerpt": "Year established for Pemberton Analytics is 2011.",
+    "field": "founded_year",
+    "value": 2011
+   },
+   {
+    "url": "https://companyfile.test/companies/pemberton-analytics",
+    "excerpt": "Pemberton Analytics has 669 employees on record.",
+    "field": "headcount_range",
+    "value": "501-1000"
+   },
+   {
+    "url": "https://pemberton-analytics.test/executive-team",
+    "excerpt": "Dmitri Beaumont serves as pemberton-analytics.test chief financial officer.",
+    "field": "cfo",
+    "value": "Dmitri Beaumont"
+   },
+   {
+    "url": "https://pemberton-analytics.test/executive-team",
+    "excerpt": "Selma Lowther is the chief operating officer of pemberton-analytics.test.",
+    "field": "coo",
+    "value": "Selma Lowther"
+   },
+   {
+    "url": "https://pemberton-analytics.test/executive-team",
+    "excerpt": "Engineering at pemberton-analytics.test answers to CTO Anika Ingram.",
+    "field": "cto",
+    "value": "Anika Ingram"
+   },
+   {
+    "url": "https://pemberton-analytics.test/executive-team",
+    "excerpt": "pemberton-analytics.test is backed by Silverbirch Investments.",
+    "field": "investors",
+    "value": "Silverbirch Investments"
+   }
+  ]
+ },
+ "ferncliff-foods.test": {
+  "tags": []
+ },
+ "tidemark-energy.test": {
+  "tags": []
+ },
+ "corvid-security.test": {
+  "expected": {
+   "1": {
+    "0": {
+     "legal_name": [
+      "Corvid Security Holdings Inc.",
+      "Corvid Security Inc."
+     ],
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000
+    },
+    "1": {
+     "legal_name": [
+      "Corvid Security Holdings Inc.",
+      "Corvid Security Inc."
+     ],
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000
+    }
+   },
+   "2": {
+    "0": {
+     "legal_name": "Corvid Security Inc.",
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000
+    },
+    "1": {
+     "legal_name": "Corvid Security Inc.",
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000
+    }
+   },
+   "3": {
+    "0": {
+     "legal_name": "Corvid Security Inc.",
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Rowan Ellery"
+       },
+       {
+        "title": "coo",
+        "name": "Tobias Aldridge"
+       }
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Corvid Security Inc.",
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Rowan Ellery"
+       },
+       {
+        "title": "coo",
+        "name": "Tobias Aldridge"
+       }
+      ]
+     }
+    }
+   },
+   "4": {
+    "0": {
+     "legal_name": "Corvid Security Inc.",
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Rowan Ellery"
+       },
+       {
+        "title": "coo",
+        "name": "Tobias Aldridge"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Greyfriars Holdings",
+       "Northwind Ventures"
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Corvid Security Inc.",
+     "hq_city": "Austin",
+     "ceo": "Marcus Dalton",
+     "founded_year": 2003,
+     "headcount_range": "1001-5000",
+     "funding_total": 84000000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Rowan Ellery"
+       },
+       {
+        "title": "coo",
+        "name": "Tobias Aldridge"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Greyfriars Holdings",
+       "Northwind Ventures"
+      ]
+     }
+    }
+   }
+  },
+  "tags": [
+   "economy",
+   "plain"
+  ],
+  "supports": [
+   {
+    "url": "https://corvid-security.test/company",
+    "excerpt": "Corvid Security Inc. is the registered company behind the Corvid Security brand.",
+    "field": "legal_name",
+    "value": "Corvid Security Inc."
+   },
+   {
+    "url": "https://corvid-security.test/company",
+    "excerpt": "The Corvid Security team works from its headquarters in Austin.",
+    "field": "hq_city",
+    "value": "Austin"
+   },
+   {
+    "url": "https://corvid-security.test/company",
+    "excerpt": "Founded in 2003, Corvid Security now sells inbox threat filtering in several countries.",
+    "field": "founded_year",
+    "value": 2003
+   },
+   {
+    "url": "https://companyfile.test/companies/corvid-security",
+    "excerpt": "Corvid Security Holdings Inc. is listed as the legal entity for Corvid Security.",
+    "field": "legal_name",
+    "value": "Corvid Security Holdings Inc."
+   },
+   {
+    "url": "https://companyfile.test/companies/corvid-security",
+    "excerpt": "Corvid Security was established in 2003.",
+    "field": "founded_year",
+    "value": 2003
+   },
+   {
+    "url": "https://corvid-security.test/careers",
+    "excerpt": "Corvid Security employs about 1,575 people.",
+    "field": "headcount_range",
+    "value": "1001-5000"
+   },
+   {
+    "url": "https://corvid-security.test/team",
+    "excerpt": "Marcus Dalton serves as CEO of Corvid Security.",
+    "field": "ceo",
+    "value": "Marcus Dalton"
+   },
+   {
+    "url": "https://businessbeat.test/2025/11/corvid-security-eyes-new-markets",
+    "excerpt": "Corvid Security has raised US$84 million from investors to date.",
+    "field": "funding_total",
+    "value": 84000000
+   },
+   {
+    "url": "https://corvid-security.test/about/leadership",
+    "excerpt": "The finance team at corvid-security.test reports to CFO Rowan Ellery.",
+    "field": "cfo",
+    "value": "Rowan Ellery"
+   },
+   {
+    "url": "https://corvid-security.test/about/leadership",
+    "excerpt": "corvid-security.test COO Tobias Aldridge looks after daily operations.",
+    "field": "coo",
+    "value": "Tobias Aldridge"
+   },
+   {
+    "url": "https://corvid-security.test/about/leadership",
+    "excerpt": "Greyfriars Holdings participated in a round for corvid-security.test.",
+    "field": "investors",
+    "value": "Greyfriars Holdings"
+   },
+   {
+    "url": "https://corvid-security.test/about/leadership",
+    "excerpt": "Among the investors in corvid-security.test is Northwind Ventures.",
+    "field": "investors",
+    "value": "Northwind Ventures"
+   }
+  ]
+ },
+ "larkspur-health.test": {
+  "tags": []
+ },
+ "mosaic-freight.test": {
+  "expected": {
+   "1": {
+    "0": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "201-500",
+     "funding_total": [
+      27000000,
+      30000000
+     ]
+    },
+    "1": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "11-50",
+     "funding_total": [
+      27000000,
+      30000000
+     ]
+    }
+   },
+   "2": {
+    "0": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "201-500",
+     "funding_total": 27000000
+    },
+    "1": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "11-50",
+     "funding_total": 27000000
+    }
+   },
+   "3": {
+    "0": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "201-500",
+     "funding_total": 27000000,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Dmitri Aldridge"
+       }
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "11-50",
+     "funding_total": 27000000,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Dmitri Aldridge"
+       }
+      ]
+     }
+    }
+   },
+   "4": {
+    "0": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "201-500",
+     "funding_total": 27000000,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Dmitri Aldridge"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Bluebird Capital",
+       "Brackwater Partners"
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Mosaic Freight Pty Ltd",
+     "hq_city": "Brno",
+     "ceo": "Leila Moreau",
+     "founded_year": 2017,
+     "headcount_range": "11-50",
+     "funding_total": 27000000,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Dmitri Aldridge"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Bluebird Capital",
+       "Brackwater Partners"
+      ]
+     }
+    }
+   }
+  },
+  "tags": [
+   "plain"
+  ],
+  "supports": [
+   {
+    "url": "https://businessbeat.test/2025/06/mosaic-freight-widens-its-reach",
+    "excerpt": "All told, Mosaic Freight has raised $30 million since launch.",
+    "field": "funding_total",
+    "value": 30000000
+   },
+   {
+    "url": "https://metroherald.test/2026/01/mosaic-freight-bets-on-freight-load-matching-software",
+    "excerpt": "Mosaic Freight has raised $27M in total equity funding.",
+    "field": "funding_total",
+    "value": 27000000
+   },
+   {
+    "url": "https://companyfile.test/companies/mosaic-freight",
+    "excerpt": "Estimated staff at Mosaic Freight: 224 employees.",
+    "field": "headcount_range",
+    "value": "201-500"
+   },
+   {
+    "url": "https://companyfile.test/companies/mosaic-freight",
+    "excerpt": "Mosaic Freight reports a headcount of 47.",
+    "field": "headcount_range",
+    "value": "11-50"
+   },
+   {
+    "url": "https://companyfile.test/companies/mosaic-freight",
+    "excerpt": "Mosaic Freight is headquartered in Brno.",
+    "field": "hq_city",
+    "value": "Brno"
+   },
+   {
+    "url": "https://companyfile.test/companies/mosaic-freight",
+    "excerpt": "Mosaic Freight was established in 2017.",
+    "field": "founded_year",
+    "value": 2017
+   },
+   {
+    "url": "https://mosaic-freight.test/company",
+    "excerpt": "Mosaic Freight Pty Ltd is listed as the legal entity for Mosaic Freight.",
+    "field": "legal_name",
+    "value": "Mosaic Freight Pty Ltd"
+   },
+   {
+    "url": "https://mosaic-freight.test/company",
+    "excerpt": "Mosaic Freight has its head office in Brno, where most of its engineers sit.",
+    "field": "hq_city",
+    "value": "Brno"
+   },
+   {
+    "url": "https://mosaic-freight.test/company",
+    "excerpt": "Mosaic Freight was established in 2017 as a two-person project.",
+    "field": "founded_year",
+    "value": 2017
+   },
+   {
+    "url": "https://mosaic-freight.test/team",
+    "excerpt": "Mosaic Freight chief executive Leila Moreau oversees a leadership group of six.",
+    "field": "ceo",
+    "value": "Leila Moreau"
+   },
+   {
+    "url": "https://mosaic-freight.test/executive-team",
+    "excerpt": "Dmitri Aldridge serves as mosaic-freight.test chief operating officer.",
+    "field": "coo",
+    "value": "Dmitri Aldridge"
+   },
+   {
+    "url": "https://mosaic-freight.test/executive-team",
+    "excerpt": "Brackwater Partners participated in a round for mosaic-freight.test.",
+    "field": "investors",
+    "value": "Brackwater Partners"
+   },
+   {
+    "url": "https://mosaic-freight.test/executive-team",
+    "excerpt": "Bluebird Capital is an investor in mosaic-freight.test.",
+    "field": "investors",
+    "value": "Bluebird Capital"
+   }
+  ]
+ },
+ "windrush-bakery.test": {
+  "expected": {
+   "1": {
+    "0": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000
+    },
+    "1": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000
+    }
+   },
+   "2": {
+    "0": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000
+    },
+    "1": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000
+    }
+   },
+   "3": {
+    "0": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Tobias Lowther"
+       }
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Tobias Lowther"
+       }
+      ]
+     }
+    }
+   },
+   "4": {
+    "0": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Tobias Lowther"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Redfern Equity"
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Windrush Bakery Ltd",
+     "hq_city": "Stavanger",
+     "ceo": "Ingrid Dalton",
+     "founded_year": 2008,
+     "headcount_range": "51-200",
+     "funding_total": 53500000,
+     "executives": {
+      "list": [
+       {
+        "title": "cfo",
+        "name": "Tobias Lowther"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Redfern Equity"
+      ]
+     }
+    }
+   }
+  },
+  "tags": [
+   "plain"
+  ],
+  "supports": [
+   {
+    "url": "https://companies-register.test/entity/11933459",
+    "excerpt": "Windrush Bakery was incorporated in 2008.",
+    "field": "founded_year",
+    "value": 2008
+   },
+   {
+    "url": "https://windrush-bakery.test/about",
+    "excerpt": "Windrush Bakery trades through its registered company, Windrush Bakery Ltd, which issues every invoice.",
+    "field": "legal_name",
+    "value": "Windrush Bakery Ltd"
+   },
+   {
+    "url": "https://windrush-bakery.test/about",
+    "excerpt": "Windrush Bakery has its head office in Stavanger, where most of its engineers sit.",
+    "field": "hq_city",
+    "value": "Stavanger"
+   },
+   {
+    "url": "https://companies-register.test/entity/11933459/officers",
+    "excerpt": "Windrush Bakery Ltd is the registered name entered under number 11933459.",
+    "field": "legal_name",
+    "value": "Windrush Bakery Ltd"
+   },
+   {
+    "url": "https://startupindex.test/companies/windrush-bakery",
+    "excerpt": "The Windrush Bakery team works from its headquarters in Stavanger.",
+    "field": "hq_city",
+    "value": "Stavanger"
+   },
+   {
+    "url": "https://startupindex.test/companies/windrush-bakery",
+    "excerpt": "Windrush Bakery has 103 employees on record.",
+    "field": "headcount_range",
+    "value": "51-200"
+   },
+   {
+    "url": "https://windrush-bakery.test/team",
+    "excerpt": "Windrush Bakery chief executive Ingrid Dalton oversees a leadership group of six.",
+    "field": "ceo",
+    "value": "Ingrid Dalton"
+   },
+   {
+    "url": "https://metroherald.test/2025/04/windrush-bakery-eyes-new-markets",
+    "excerpt": "\"We are building sourdough loaves for the long run,\" said Ingrid Dalton, chief executive of Windrush Bakery.",
+    "field": "ceo",
+    "value": "Ingrid Dalton"
+   },
+   {
+    "url": "https://metroherald.test/2025/04/windrush-bakery-eyes-new-markets",
+    "excerpt": "All told, Windrush Bakery has raised $53.5 million since launch.",
+    "field": "funding_total",
+    "value": 53500000
+   },
+   {
+    "url": "https://windrush-bakery.test/executive-team",
+    "excerpt": "Tobias Lowther serves as windrush-bakery.test chief financial officer.",
+    "field": "cfo",
+    "value": "Tobias Lowther"
+   },
+   {
+    "url": "https://windrush-bakery.test/executive-team",
+    "excerpt": "Redfern Equity participated in a round for windrush-bakery.test.",
+    "field": "investors",
+    "value": "Redfern Equity"
+   }
+  ]
+ },
+ "ashgrove-solar.test": {
+  "expected": {
+   "1": {
+    "0": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": null,
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": 21500000
+    },
+    "1": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": "Cork",
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": null
+    }
+   },
+   "2": {
+    "0": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": null,
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": 21500000
+    },
+    "1": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": "Cork",
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": null
+    }
+   },
+   "3": {
+    "0": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": null,
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": 21500000,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Tobias Garrow"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Jessop"
+       }
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": "Cork",
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": null,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Tobias Garrow"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Jessop"
+       }
+      ]
+     }
+    }
+   },
+   "4": {
+    "0": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": null,
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": 21500000,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Tobias Garrow"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Jessop"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Marlowe Equity"
+      ]
+     }
+    },
+    "1": {
+     "legal_name": "Ashgrove Solar GmbH",
+     "hq_city": "Cork",
+     "ceo": "Marcus Mensah",
+     "founded_year": 2019,
+     "headcount_range": "11-50",
+     "funding_total": null,
+     "executives": {
+      "list": [
+       {
+        "title": "coo",
+        "name": "Tobias Garrow"
+       },
+       {
+        "title": "cto",
+        "name": "Anika Jessop"
+       }
+      ]
+     },
+     "investors": {
+      "list": [
+       "Marlowe Equity"
+      ]
+     }
+    }
+   }
+  },
+  "tags": [
+   "plain"
+  ],
+  "supports": [
+   {
+    "url": "https://ashgrove-solar.test/about",
+    "excerpt": "Ashgrove Solar trades under the registered name Ashgrove Solar GmbH in all of its markets.",
+    "field": "legal_name",
+    "value": "Ashgrove Solar GmbH"
+   },
+   {
+    "url": "https://ashgrove-solar.test/about",
+    "excerpt": "Ashgrove Solar is headquartered in Cork.",
+    "field": "hq_city",
+    "value": "Cork"
+   },
+   {
+    "url": "https://ashgrove-solar.test/about",
+    "excerpt": "Ashgrove Solar was established in 2019 as a two-person project.",
+    "field": "founded_year",
+    "value": 2019
+   },
+   {
+    "url": "https://ashgrove-solar.test/team",
+    "excerpt": "Marcus Mensah serves as CEO of Ashgrove Solar.",
+    "field": "ceo",
+    "value": "Marcus Mensah"
+   },
+   {
+    "url": "https://businessbeat.test/2025/09/ashgrove-solar-eyes-new-markets",
+    "excerpt": "\"Our customers asked for this,\" said Ashgrove Solar CEO Marcus Mensah.",
+    "field": "ceo",
+    "value": "Marcus Mensah"
+   },
+   {
+    "url": "https://businessbeat.test/2025/09/ashgrove-solar-eyes-new-markets",
+    "excerpt": "Investors have put $21.5 million of investment into Ashgrove Solar so far.",
+    "field": "funding_total",
+    "value": 21500000
+   },
+   {
+    "url": "https://startupindex.test/companies/ashgrove-solar",
+    "excerpt": "Year established for Ashgrove Solar is 2019.",
+    "field": "founded_year",
+    "value": 2019
+   },
+   {
+    "url": "https://startupindex.test/companies/ashgrove-solar",
+    "excerpt": "Ashgrove Solar reports a headcount of 25.",
+    "field": "headcount_range",
+    "value": "11-50"
+   },
+   {
+    "url": "https://ashgrove-solar.test/executive-team",
+    "excerpt": "ashgrove-solar.test COO Tobias Garrow looks after daily operations.",
+    "field": "coo",
+    "value": "Tobias Garrow"
+   },
+   {
+    "url": "https://ashgrove-solar.test/executive-team",
+    "excerpt": "Anika Jessop serves as ashgrove-solar.test chief technology officer.",
+    "field": "cto",
+    "value": "Anika Jessop"
+   },
+   {
+    "url": "https://companies-register.test/entity/60955721/shareholders",
+    "excerpt": "Marlowe Equity is recorded as an investor in ashgrove-solar.test.",
+    "field": "investors",
+    "value": "Marlowe Equity"
+   }
+  ]
+ }
+}

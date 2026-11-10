@@ -1,0 +1,308 @@
+{
+ "domain": "corvid-security.test",
+ "names": [
+  "Corvid Security"
+ ],
+ "pages": [
+  {
+   "url": "https://corvid-security.test/company",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Corvid Security | Company",
+   "text": "At Corvid Security, we build inbox threat filtering that hospital IT teams rely on every day.\nCorvid Security Inc. is the registered company behind the Corvid Security brand. The Corvid Security team works from its headquarters in Austin. Founded in 2003, Corvid Security now sells inbox threat filtering in several countries.\nEvery Corvid Security product is designed in-house.",
+   "facts": {
+    "legal_name": "Corvid Security Inc.",
+    "hq_city": "Austin",
+    "founded_year": "2003"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "corvid-security.test"
+   }
+  },
+  {
+   "url": "https://companyfile.test/companies/corvid-security",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-04T08:15:00Z",
+   "true_from": null,
+   "title": "Corvid Security | firm profile",
+   "text": "Company profile for Corvid Security.\nCorvid Security Holdings Inc. is listed as the legal entity for Corvid Security. Corvid Security was established in 2003.\nData on Corvid Security is compiled from public sources.",
+   "facts": {
+    "legal_name": "Corvid Security Holdings Inc.",
+    "founded_year": "2003"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyfile.test"
+   }
+  },
+  {
+   "url": "https://corvid-security.test/careers",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": null,
+   "true_from": null,
+   "title": "Careers at Corvid Security",
+   "text": "Corvid Security is hiring across engineering and operations.\nCorvid Security employs about 1,575 people.\nCorvid Security offers flexible hours and a learning budget.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "corvid-security.test"
+   }
+  },
+  {
+   "url": "https://corvid-security.test/team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Our team | Corvid Security",
+   "text": "Meet the people who run Corvid Security day to day.\nMarcus Dalton serves as CEO of Corvid Security.\nThe Corvid Security leaders visit customers every quarter.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "corvid-security.test"
+   }
+  },
+  {
+   "url": "https://businessbeat.test/2025/11/corvid-security-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-09T11:00:00Z",
+   "true_from": null,
+   "title": "Corvid Security eyes new markets",
+   "text": "The email security company Corvid Security is drawing attention from hospital IT teams.\nCorvid Security has raised US$84 million from investors to date.\nCorvid Security plans to open two new markets before the end of the year.",
+   "facts": {
+    "funding_total": "US$84 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "businessbeat.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/corvid-security",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-12T20:15:00Z",
+   "true_from": null,
+   "title": "Corvid Security contact details",
+   "text": "Visitors to corvid-security.test can request a callback from the Corvid Security sales desk. The design of the inbox threat filtering was refreshed this year. Questions from hospital IT teams about the inbox threat filtering were answered in a live webinar.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/11/supplier-roundup-corvid-security",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-19T18:45:00Z",
+   "true_from": null,
+   "title": "Supplier roundup: Corvid Security",
+   "text": "The corvid-security.test site of Corvid Security now carries a page for hospital IT teams. A small community event this season showcased the inbox threat filtering. The online shop for the inbox threat filtering moved to a new platform.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/corvid-security",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-03T18:30:00Z",
+   "true_from": null,
+   "title": "Corvid Security - listing",
+   "text": "Corvid Security updated corvid-security.test with case studies from hospital IT teams. A regional distributor now carries the inbox threat filtering. The inbox threat filtering featured in a panel on the future of email security.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/corvid-security",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-08T09:15:00Z",
+   "true_from": null,
+   "title": "Corvid Security | directory entry",
+   "text": "Corvid Security posted a new product brochure on corvid-security.test this month. The inbox threat filtering range is sold through a network of resellers. Several hospital IT teams have written about their experience with the inbox threat filtering.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/corvid-security",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-10T09:15:00Z",
+   "true_from": null,
+   "title": "Corvid Security supplier profile",
+   "text": "A reader pointed us to corvid-security.test, the website of Corvid Security. A newsletter about the inbox threat filtering goes out to hospital IT teams. The inbox threat filtering was shortlisted for an industry award.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/04/corvid-security-updates-its-inbox-threat-filtering",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-06T12:45:00Z",
+   "true_from": null,
+   "title": "Corvid Security updates its inbox threat filtering",
+   "text": "Corvid Security uses corvid-security.test to announce its trade show dates. A spokesperson declined to comment on pricing for the inbox threat filtering. Reviews of the inbox threat filtering mention quick delivery and clear documentation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2026/02/what-is-new-at-corvid-security",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-13T11:45:00Z",
+   "true_from": null,
+   "title": "What is new at Corvid Security",
+   "text": "Corvid Security, reachable at corvid-security.test, appears in our roundup of email security suppliers. Partners resell the inbox threat filtering in neighbouring markets. The inbox threat filtering will be on display at an upcoming conference.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2025/10/spotlight-corvid-security",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-21T06:30:00Z",
+   "true_from": null,
+   "title": "Spotlight: Corvid Security",
+   "text": "Corvid Security (corvid-security.test) showed its inbox threat filtering to visitors at a regional trade fair. A demonstration of the inbox threat filtering drew a steady crowd on the opening day. A blog covers practical tips on the inbox threat filtering for hospital IT teams.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/corvid-security",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-27T11:30:00Z",
+   "true_from": null,
+   "title": "Corvid Security on our directory",
+   "text": "Readers can find Corvid Security online at corvid-security.test, where it lists its inbox threat filtering. Our directory files the inbox threat filtering under email security. Customer reviews rate the inbox threat filtering highly for support.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://corvid-security.test/about/leadership",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2023-12-25",
+   "title": "Leadership and investors",
+   "text": "The people steering corvid-security.test are listed below.\nThe finance team at corvid-security.test reports to CFO Rowan Ellery. corvid-security.test COO Tobias Aldridge looks after daily operations. Greyfriars Holdings participated in a round for corvid-security.test. Among the investors in corvid-security.test is Northwind Ventures.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "corvid-security.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "headcount_range",
+     "value": "1001-5000",
+     "url": "https://corvid-security.test/careers",
+     "excerpt": "Corvid Security employs about 1,575 people."
+    }
+   ],
+   "1": [
+    {
+     "field": "headcount_range",
+     "value": "1001-5000",
+     "url": "https://corvid-security.test/careers",
+     "excerpt": "Corvid Security employs about 1,575 people."
+    }
+   ]
+  }
+ }
+}

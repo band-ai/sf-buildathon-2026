@@ -1,0 +1,341 @@
+{
+ "domain": "halvorsen-robotics.test",
+ "names": [
+  "Halvorsen Robotics"
+ ],
+ "pages": [
+  {
+   "url": "https://companies-register.test/entity/84134936",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": "2025-04-14T09:30:00Z",
+   "true_from": null,
+   "title": "Register entry 84134936",
+   "text": "Current particulars held on file for Halvorsen Robotics.\nHalvorsen Robotics was incorporated in 2019.\nThe next confirmation statement for Halvorsen Robotics is due within twelve months.",
+   "facts": {
+    "founded_year": "2019"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://halvorsen-robotics.test/company",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Halvorsen Robotics | Company",
+   "text": "Halvorsen Robotics works in warehouse automation and focuses on pick-and-place arms for parcel depots.\nBased in Valencia, Halvorsen Robotics serves customers across the region. Halvorsen Robotics trades under the registered name Halvorsen Robotics AS in all of its markets.\nHalvorsen Robotics ships an update to its pick-and-place arms for parcel depots every two weeks.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "halvorsen-robotics.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/halvorsen-robotics",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-08T08:00:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics - company data",
+   "text": "Key data about Halvorsen Robotics at a glance.\nHalvorsen Robotics is headquartered in Utrecht. Estimated staff at Halvorsen Robotics: 3,148 employees.\nThis Halvorsen Robotics profile was last reviewed by our research desk.",
+   "facts": {
+    "hq_city": "Utrecht",
+    "headcount_range": "3,148"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://halvorsen-robotics.test/leadership",
+   "kind": "own",
+   "epochs": [
+    0
+   ],
+   "published_at": null,
+   "true_from": "2023-05-13",
+   "title": "Our team | Halvorsen Robotics",
+   "text": "Meet the people who run Halvorsen Robotics day to day.\nAs CEO of Halvorsen Robotics, Priya Dalton sets the company's direction.\nThe Halvorsen Robotics leaders visit customers every quarter.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "halvorsen-robotics.test"
+   }
+  },
+  {
+   "url": "https://halvorsen-robotics.test/leadership",
+   "kind": "own",
+   "epochs": [
+    1
+   ],
+   "published_at": null,
+   "true_from": "2026-03-17",
+   "title": "Our team | Halvorsen Robotics",
+   "text": "Meet the people who run Halvorsen Robotics day to day.\nHalvorsen Robotics is led by chief executive Marcus Abbott.\nThe Halvorsen Robotics leaders visit customers every quarter.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "halvorsen-robotics.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2026/03/halvorsen-robotics-names-new-chief-executive",
+   "kind": "news",
+   "epochs": [
+    1
+   ],
+   "published_at": "2026-03-18T13:15:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics names new chief executive",
+   "text": "Halvorsen Robotics has a new person at the top.\nMarcus Abbott took over as chief executive of Halvorsen Robotics this month.\nHalvorsen Robotics did not say whether other leadership roles will be filled.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/84134936/officers",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-27T17:45:00Z",
+   "true_from": null,
+   "title": "Company record 84134936",
+   "text": "Public record of Halvorsen Robotics as kept by the register.\nThe register records Halvorsen Robotics AS as the registered name of the company trading as Halvorsen Robotics.\nNo charges are registered against Halvorsen Robotics.",
+   "facts": {
+    "legal_name": "Halvorsen Robotics AS"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://techcurrent.test/2025/04/halvorsen-robotics-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-17T15:30:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics eyes new markets",
+   "text": "The warehouse automation company Halvorsen Robotics is drawing attention from regional logistics firms.\nInvestors have put US$75 million of investment into Halvorsen Robotics so far.\nHalvorsen Robotics plans to open two new markets before the end of the year.",
+   "facts": {
+    "funding_total": "US$75 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "techcurrent.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/halvorsen-robotics",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-19T14:45:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics contact details",
+   "text": "Halvorsen Robotics, reachable at halvorsen-robotics.test, appears in our roundup of warehouse automation suppliers. The design of the pick-and-place arms for parcel depots was refreshed this year. A small community event this season showcased the pick-and-place arms for parcel depots.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2025/12/halvorsen-robotics-talks-to-regional-logistics-firms",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-21T11:15:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics talks to regional logistics firms",
+   "text": "This listing covers Halvorsen Robotics, whose website is halvorsen-robotics.test. A demonstration of the pick-and-place arms for parcel depots drew a steady crowd on the opening day. New customers can request a trial of the pick-and-place arms for parcel depots.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/halvorsen-robotics",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-13T09:30:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics | directory entry",
+   "text": "A reader pointed us to halvorsen-robotics.test, the website of Halvorsen Robotics. The pick-and-place arms for parcel depots featured in a panel on the future of warehouse automation. Partners resell the pick-and-place arms for parcel depots in neighbouring markets.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2025/07/halvorsen-robotics-in-the-community",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-22T18:15:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics in the community",
+   "text": "Halvorsen Robotics updated halvorsen-robotics.test with case studies from regional logistics firms. Questions from regional logistics firms about the pick-and-place arms for parcel depots were answered in a live webinar. A spokesperson declined to comment on pricing for the pick-and-place arms for parcel depots.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/07/a-closer-look-at-halvorsen-robotics",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-04T11:30:00Z",
+   "true_from": null,
+   "title": "A closer look at Halvorsen Robotics",
+   "text": "Readers can find Halvorsen Robotics online at halvorsen-robotics.test, where it lists its pick-and-place arms for parcel depots. The online shop for the pick-and-place arms for parcel depots moved to a new platform. Our directory files the pick-and-place arms for parcel depots under warehouse automation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/12/halvorsen-robotics-in-brief",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-18T14:45:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics in brief",
+   "text": "Halvorsen Robotics (halvorsen-robotics.test) showed its pick-and-place arms for parcel depots to visitors at a regional trade fair. The pick-and-place arms for parcel depots was shortlisted for an industry award. The pick-and-place arms for parcel depots range is sold through a network of resellers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://supplierfinder.test/halvorsen-robotics",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-17T07:15:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics supplier profile",
+   "text": "Visitors to halvorsen-robotics.test can request a callback from the Halvorsen Robotics sales desk. Several regional logistics firms have written about their experience with the pick-and-place arms for parcel depots. A blog covers practical tips on the pick-and-place arms for parcel depots for regional logistics firms.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "supplierfinder.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/halvorsen-robotics",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-14T12:00:00Z",
+   "true_from": null,
+   "title": "Halvorsen Robotics - listing",
+   "text": "The halvorsen-robotics.test site of Halvorsen Robotics now carries a page for regional logistics firms. Customer reviews rate the pick-and-place arms for parcel depots highly for support. Reviews of the pick-and-place arms for parcel depots mention quick delivery and clear documentation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://halvorsen-robotics.test/executive-team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2023-10-06",
+   "title": "Leadership and investors",
+   "text": "The people steering halvorsen-robotics.test are listed below.\nDmitri Fenwick is the chief technology officer of halvorsen-robotics.test. halvorsen-robotics.test is backed by Marlowe Equity.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "halvorsen-robotics.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "founded_year",
+     "value": 2019,
+     "url": "https://companies-register.test/entity/84134936",
+     "excerpt": "Halvorsen Robotics was incorporated in 2019."
+    }
+   ],
+   "1": [
+    {
+     "field": "founded_year",
+     "value": 2019,
+     "url": "https://companies-register.test/entity/84134936",
+     "excerpt": "Halvorsen Robotics was incorporated in 2019."
+    }
+   ]
+  }
+ }
+}

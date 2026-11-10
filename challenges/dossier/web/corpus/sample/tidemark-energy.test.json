@@ -1,0 +1,448 @@
+{
+ "domain": "tidemark-energy.test",
+ "names": [
+  "Tidemark Energy"
+ ],
+ "pages": [
+  {
+   "url": "https://startupindex.test/companies/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    0
+   ],
+   "published_at": "2025-08-02T08:45:00Z",
+   "true_from": "2025-08-02",
+   "title": "Tidemark Energy at a glance",
+   "text": "Key data about Tidemark Energy at a glance.\nTidemark Energy was established in 2018.\nThis Tidemark Energy profile was last reviewed by our research desk.",
+   "facts": {
+    "founded_year": "2018"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    1
+   ],
+   "published_at": "2025-08-02T08:45:00Z",
+   "true_from": "2025-08-02",
+   "title": "Tidemark Energy at a glance",
+   "text": "Key data about Tidemark Energy at a glance.\nYear established for Tidemark Energy is 2017. The Tidemark Energy listing was revised in March after the company supplied new figures.\nThis Tidemark Energy profile was last reviewed by our research desk.",
+   "facts": {
+    "founded_year": "2017"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://pressline.test/2025/06/inside-the-rise-of-tidemark-energy",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-21T20:00:00Z",
+   "true_from": null,
+   "title": "Inside the rise of Tidemark Energy",
+   "text": "Tidemark Energy, which sells home battery systems, has had a busy year.\n\"Our customers asked for this,\" said Tidemark Energy CEO Priya Haddad.\nTidemark Energy said demand for home battery systems keeps rising.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "pressline.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/leadership",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Tidemark Energy leadership",
+   "text": "The leadership of Tidemark Energy brings decades of energy storage experience.\nPriya Haddad is the chief executive of Tidemark Energy.\nTidemark Energy keeps a small management layer and flat teams.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2025/06/inside-the-rise-of-tidemark-energy",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-22T01:00:00Z",
+   "true_from": null,
+   "title": "Inside the rise of Tidemark Energy",
+   "text": "Tidemark Energy, which sells home battery systems, has had a busy year.\n\"Our customers asked for this,\" said Tidemark Energy CEO Priya Haddad.\nTidemark Energy said demand for home battery systems keeps rising. Pressline distributed this story about Tidemark Energy.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": "pressline.test",
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/06/inside-the-rise-of-tidemark-energy",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-22T20:00:00Z",
+   "true_from": null,
+   "title": "Inside the rise of Tidemark Energy",
+   "text": "Tidemark Energy, which sells home battery systems, has had a busy year.\n\"Our customers asked for this,\" said Tidemark Energy CEO Priya Haddad.\nTidemark Energy said demand for home battery systems keeps rising. This report on Tidemark Energy first appeared on Pressline.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": "pressline.test",
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/about",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Tidemark Energy | Company",
+   "text": "Tidemark Energy makes home battery systems for rooftop solar installers.\nTidemark Energy trades under the registered name Tidemark Energy GmbH in all of its markets. Tidemark Energy is headquartered in Freiburg.\nThe Tidemark Energy support desk answers within one business day.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  },
+  {
+   "url": "https://techcurrent.test/2025/12/tidemark-energy-eyes-new-markets",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-04T12:45:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy eyes new markets",
+   "text": "Tidemark Energy is one of the faster-growing names in energy storage.\nTotal funding for Tidemark Energy now stands at $11.5M.\nTidemark Energy plans to open two new markets before the end of the year.",
+   "facts": {
+    "funding_total": "$11.5M"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "techcurrent.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/news/tidemark-energy-widens-its-reach",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2025-03-14",
+   "title": "Tidemark Energy widens its reach",
+   "text": "Tidemark Energy has a team of roughly 630 employees.",
+   "facts": {
+    "headcount_range": "630"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  },
+  {
+   "url": "https://companyfile.test/companies/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2024-04-03T06:00:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy - company data",
+   "text": "Estimated staff at Tidemark Energy: 276 employees.",
+   "facts": {
+    "headcount_range": "276"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyfile.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-03T09:45:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy on our directory",
+   "text": "Tidemark Energy updated tidemark-energy.test with case studies from rooftop solar installers. Questions from rooftop solar installers about the home battery systems were answered in a live webinar. The home battery systems featured in a panel on the future of energy storage.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://tradepress-online.test/2026/01/what-is-new-at-tidemark-energy",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-22T09:00:00Z",
+   "true_from": null,
+   "title": "What is new at Tidemark Energy",
+   "text": "This listing covers Tidemark Energy, whose website is tidemark-energy.test. Customer reviews rate the home battery systems highly for support. A regional distributor now carries the home battery systems.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tradepress-online.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/08/a-closer-look-at-tidemark-energy",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-08-28T11:45:00Z",
+   "true_from": null,
+   "title": "A closer look at Tidemark Energy",
+   "text": "Visitors to tidemark-energy.test can request a callback from the Tidemark Energy sales desk. Partners resell the home battery systems in neighbouring markets. Prices for the home battery systems are available on request.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2025/04/tidemark-energy-in-brief",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-25T09:00:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy in brief",
+   "text": "Tidemark Energy, reachable at tidemark-energy.test, appears in our roundup of energy storage suppliers. The home battery systems was shortlisted for an industry award. Our directory files the home battery systems under energy storage.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2026/02/spotlight-tidemark-energy",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-04T17:15:00Z",
+   "true_from": null,
+   "title": "Spotlight: Tidemark Energy",
+   "text": "Readers can find Tidemark Energy online at tidemark-energy.test, where it lists its home battery systems. The design of the home battery systems was refreshed this year. New customers can request a trial of the home battery systems.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://vendorlist.test/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-09-25T09:30:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy | directory entry",
+   "text": "A reader pointed us to tidemark-energy.test, the website of Tidemark Energy. Several rooftop solar installers have written about their experience with the home battery systems. A blog covers practical tips on the home battery systems for rooftop solar installers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "vendorlist.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/05/tidemark-energy-updates-its-home-battery-systems",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-20T20:15:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy updates its home battery systems",
+   "text": "Tidemark Energy (tidemark-energy.test) showed its home battery systems to visitors at a regional trade fair. A small community event this season showcased the home battery systems. The home battery systems range is sold through a network of resellers.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-18T20:45:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy - listing",
+   "text": "Tidemark Energy uses tidemark-energy.test to announce its trade show dates. The online shop for the home battery systems moved to a new platform. The home battery systems will be on display at an upcoming conference.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/tidemark-energy",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-11-20T08:00:00Z",
+   "true_from": null,
+   "title": "Tidemark Energy contact details",
+   "text": "Tidemark Energy posted a new product brochure on tidemark-energy.test this month. A demonstration of the home battery systems drew a steady crowd on the opening day. A spokesperson declined to comment on pricing for the home battery systems.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/about/leadership",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2023-02-23",
+   "title": "Leadership and investors",
+   "text": "This is who leads tidemark-energy.test today.\nOperations at tidemark-energy.test are run by COO Mirela Beaumont. tidemark-energy.test CTO Rowan Kerrigan leads product engineering. Marlowe Equity is an investor in tidemark-energy.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/operations",
+   "kind": "own",
+   "epochs": [
+    0
+   ],
+   "published_at": null,
+   "true_from": "2020-08-26",
+   "title": "How we operate",
+   "text": "The finance team at tidemark-energy.test reports to CFO Anika Garrow.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/operations",
+   "kind": "own",
+   "epochs": [
+    1
+   ],
+   "published_at": null,
+   "true_from": "2022-02-04",
+   "title": "How we operate",
+   "text": "Anika Aldridge serves as tidemark-energy.test chief financial officer.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  },
+  {
+   "url": "https://startupindex.test/companies/tidemark-energy/people",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-07T20:00:00Z",
+   "true_from": null,
+   "title": "Key people at tidemark-energy.test",
+   "text": "tidemark-energy.test CTO: Mirela Drummond.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://tidemark-energy.test/news/tidemark-energy-bets-on-home-battery-systems",
+   "kind": "own",
+   "epochs": [
+    1
+   ],
+   "published_at": null,
+   "true_from": "2026-04-08",
+   "title": "Tidemark Energy bets on home battery systems",
+   "text": "Northwind Ventures participated in a round for tidemark-energy.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "tidemark-energy.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {}
+ }
+}

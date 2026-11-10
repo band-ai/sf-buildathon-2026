@@ -1,0 +1,431 @@
+{
+ "domain": "ferncliff-foods.test",
+ "names": [
+  "Ferncliff Foods"
+ ],
+ "pages": [
+  {
+   "url": "https://ferncliff-foods.test/company",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "About Ferncliff Foods",
+   "text": "Ferncliff Foods makes oat-based ready meals for supermarket chains.\nFerncliff Foods plans to hold its customer conference in Brisbane next year.\nFerncliff Foods ships an update to its oat-based ready meals every two weeks.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ferncliff-foods.test"
+   }
+  },
+  {
+   "url": "https://getferncliff-foods.test/about-us",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-13T15:45:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods - Official site",
+   "text": "Welcome to Ferncliff Foods, makers of oat-based ready meals.\nFerncliff Foods has been operating since it was founded in 2015.\nContact Ferncliff Foods for pricing.",
+   "facts": {
+    "founded_year": "2015"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "domainhold.test"
+   }
+  },
+  {
+   "url": "https://metroherald.test/2025/07/ferncliff-foods-bets-on-oat-based-ready-meals",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-07-19T14:30:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods bets on oat-based ready meals",
+   "text": "Ferncliff Foods is one of the faster-growing names in food production.\nFerncliff Foods was established in 2013 as a two-person project. \"Our customers asked for this,\" said Ferncliff Foods CEO Priya Castillo. All told, Ferncliff Foods has raised $19.5M since launch.\nFerncliff Foods plans to open two new markets before the end of the year.",
+   "facts": {
+    "founded_year": "2013",
+    "ceo": "Priya Castillo",
+    "funding_total": "$19.5M"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "metroherald.test"
+   }
+  },
+  {
+   "url": "https://companies-register.test/entity/22077300",
+   "kind": "filing",
+   "epochs": [
+    0,
+    1
+   ],
+   "searchable": false,
+   "published_at": "2025-06-14T20:45:00Z",
+   "true_from": null,
+   "title": "Register entry 22077300",
+   "text": "Current particulars held on file for Ferncliff Foods.\nFerncliff Foods Ltd is the registered name entered under number 22077300.\nThe next confirmation statement for Ferncliff Foods is due within twelve months.",
+   "facts": {
+    "legal_name": "Ferncliff Foods Ltd"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companies-register.test"
+   }
+  },
+  {
+   "url": "https://ferncliff-foods.test/team",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": null,
+   "title": "Ferncliff Foods leadership",
+   "text": "Meet the people who run Ferncliff Foods day to day.\nPriya Castillo is the chief executive of Ferncliff Foods.\nThe Ferncliff Foods leaders visit customers every quarter.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ferncliff-foods.test"
+   },
+   "static_text": "Meet the people who run Ferncliff Foods day to day.\nIngrid Brennan is the chief executive of Ferncliff Foods. Numbers shown here update in real time.\nThe Ferncliff Foods leaders visit customers every quarter."
+  },
+  {
+   "url": "https://startupindex.test/companies/ferncliff-foods",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-19T12:00:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods - company data",
+   "text": "Key data about Ferncliff Foods at a glance.\nFerncliff Foods reports a headcount of 667. Capital raised by Ferncliff Foods to date is $19.5 million.\nFigures for Ferncliff Foods may lag the company's own reporting.",
+   "facts": {
+    "headcount_range": "667",
+    "funding_total": "$19.5 million"
+   },
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "startupindex.test"
+   }
+  },
+  {
+   "url": "https://techcurrent.test/2025/09/inside-the-rise-of-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0
+   ],
+   "published_at": "2025-09-13T09:45:00Z",
+   "true_from": null,
+   "title": "Inside the rise of Ferncliff Foods",
+   "text": "Ferncliff Foods, which sells oat-based ready meals, has had a busy year.\nAround 667 people work at Ferncliff Foods.\nAnalysts expect more consolidation among makers of oat-based ready meals, including Ferncliff Foods.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "techcurrent.test"
+   }
+  },
+  {
+   "url": "https://the-ledger-post.test/2026/02/ferncliff-foods-widens-its-reach",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-05T15:30:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods widens its reach",
+   "text": "The food production company Ferncliff Foods is drawing attention from supermarket chains.\nRumoured backers have invested $15.5M in Ferncliff Foods.\nDemand for oat-based ready meals has grown quickly among supermarket chains, Ferncliff Foods said.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-ledger-post.test"
+   }
+  },
+  {
+   "url": "https://bizlistings.test/ferncliff-foods",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-12-24T18:45:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods | directory entry",
+   "text": "Ferncliff Foods updated ferncliff-foods.test with case studies from supermarket chains. New customers can request a trial of the oat-based ready meals. Several supermarket chains have written about their experience with the oat-based ready meals.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "bizlistings.test"
+   }
+  },
+  {
+   "url": "https://companyhub-directory.test/ferncliff-foods",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-02-13T19:30:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods supplier profile",
+   "text": "Ferncliff Foods uses ferncliff-foods.test to announce its trade show dates. Partners resell the oat-based ready meals in neighbouring markets. Prices for the oat-based ready meals are available on request.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "companyhub-directory.test"
+   }
+  },
+  {
+   "url": "https://marketwatcher-news.test/2025/06/ferncliff-foods-in-the-community",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-07T16:00:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods in the community",
+   "text": "The ferncliff-foods.test site of Ferncliff Foods now carries a page for supermarket chains. Questions from supermarket chains about the oat-based ready meals were answered in a live webinar. The oat-based ready meals was shortlisted for an industry award.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "marketwatcher-news.test"
+   }
+  },
+  {
+   "url": "https://the-weekly-roundup.test/2025/10/spotlight-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-16T18:30:00Z",
+   "true_from": null,
+   "title": "Spotlight: Ferncliff Foods",
+   "text": "A reader pointed us to ferncliff-foods.test, the website of Ferncliff Foods. The oat-based ready meals featured in a panel on the future of food production. A demonstration of the oat-based ready meals drew a steady crowd on the opening day.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "the-weekly-roundup.test"
+   }
+  },
+  {
+   "url": "https://industrynotes.test/2025/10/ferncliff-foods-talks-to-supermarket-chains",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-10-27T08:45:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods talks to supermarket chains",
+   "text": "Ferncliff Foods, reachable at ferncliff-foods.test, appears in our roundup of food production suppliers. Our directory files the oat-based ready meals under food production. The design of the oat-based ready meals was refreshed this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "industrynotes.test"
+   }
+  },
+  {
+   "url": "https://localwire-daily.test/2025/06/supplier-roundup-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-07T08:00:00Z",
+   "true_from": null,
+   "title": "Supplier roundup: Ferncliff Foods",
+   "text": "Ferncliff Foods posted a new product brochure on ferncliff-foods.test this month. A small community event this season showcased the oat-based ready meals. Reviews of the oat-based ready meals mention quick delivery and clear documentation.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "localwire-daily.test"
+   }
+  },
+  {
+   "url": "https://b2b-catalogue.test/ferncliff-foods",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-06-13T16:15:00Z",
+   "true_from": null,
+   "title": "Ferncliff Foods - listing",
+   "text": "Ferncliff Foods (ferncliff-foods.test) showed its oat-based ready meals to visitors at a regional trade fair. A regional distributor now carries the oat-based ready meals. The oat-based ready meals will be on display at an upcoming conference.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "b2b-catalogue.test"
+   }
+  },
+  {
+   "url": "https://cityfeed.test/2025/04/what-is-new-at-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-04-22T14:00:00Z",
+   "true_from": null,
+   "title": "What is new at Ferncliff Foods",
+   "text": "Readers can find Ferncliff Foods online at ferncliff-foods.test, where it lists its oat-based ready meals. A spokesperson declined to comment on pricing for the oat-based ready meals. A newsletter about the oat-based ready meals goes out to supermarket chains.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "cityfeed.test"
+   }
+  },
+  {
+   "url": "https://ferncliff-foods.test/about/leadership",
+   "kind": "own",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": null,
+   "true_from": "2024-02-15",
+   "title": "Leadership and investors",
+   "text": "The people steering ferncliff-foods.test are listed below.\nThe finance team at ferncliff-foods.test reports to CFO Dmitri Garrow. Operations at ferncliff-foods.test are run by COO Mirela Ellery. ferncliff-foods.test CTO Lucas Beaumont leads product engineering. Greyfriars Holdings is an investor in ferncliff-foods.test.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "ferncliff-foods.test"
+   },
+   "static_text": "The people steering ferncliff-foods.test are listed below.\nThe finance team at ferncliff-foods.test reports to CFO Petra Garrow. Figures on this page load live. Operations at ferncliff-foods.test are run by COO Mirela Ellery. ferncliff-foods.test CTO Lucas Beaumont leads product engineering. Greyfriars Holdings is an investor in ferncliff-foods.test."
+  },
+  {
+   "url": "https://firmographics.test/companies/ferncliff-foods/people",
+   "kind": "aggregator",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2026-01-08T06:15:00Z",
+   "true_from": null,
+   "title": "Key people at ferncliff-foods.test",
+   "text": "ferncliff-foods.test CFO: Dmitri Garrow.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "firmographics.test"
+   }
+  },
+  {
+   "url": "https://pressline.test/2025/05/new-backer-for-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-11T11:45:00Z",
+   "true_from": null,
+   "title": "New backer for ferncliff-foods.test",
+   "text": "Northwind Ventures joined the investors in ferncliff-foods.test this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": null,
+    "first_published_by": null,
+    "registrant": "pressline.test"
+   }
+  },
+  {
+   "url": "https://harbourdaily.test/2025/05/new-backer-for-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-11T16:45:00Z",
+   "true_from": null,
+   "title": "New backer for ferncliff-foods.test",
+   "text": "Northwind Ventures joined the investors in ferncliff-foods.test this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": "https://pressline.test/2025/05/new-backer-for-ferncliff-foods",
+    "first_published_by": null,
+    "registrant": "harbourdaily.test"
+   }
+  },
+  {
+   "url": "https://businessbeat.test/2025/05/new-backer-for-ferncliff-foods",
+   "kind": "news",
+   "epochs": [
+    0,
+    1
+   ],
+   "published_at": "2025-05-12T11:45:00Z",
+   "true_from": null,
+   "title": "New backer for ferncliff-foods.test",
+   "text": "Northwind Ventures joined the investors in ferncliff-foods.test this year.",
+   "facts": {},
+   "lineage": {
+    "canonical": "https://pressline.test/2025/05/new-backer-for-ferncliff-foods",
+    "first_published_by": null,
+    "registrant": "businessbeat.test"
+   }
+  }
+ ],
+ "research": {
+  "nimble": {
+   "0": [
+    {
+     "field": "hq_city",
+     "value": "Brisbane",
+     "url": "https://ferncliff-foods.test/company",
+     "excerpt": "Ferncliff Foods plans to hold its customer conference in Brisbane next year."
+    },
+    {
+     "field": "legal_name",
+     "value": "Ferncliff Foods Ltd",
+     "url": "https://companies-register.test/entity/22077300",
+     "excerpt": "Ferncliff Foods Ltd is the registered name entered under number 22077300."
+    }
+   ],
+   "1": [
+    {
+     "field": "hq_city",
+     "value": "Brisbane",
+     "url": "https://ferncliff-foods.test/company",
+     "excerpt": "Ferncliff Foods plans to hold its customer conference in Brisbane next year."
+    },
+    {
+     "field": "legal_name",
+     "value": "Ferncliff Foods Ltd",
+     "url": "https://companies-register.test/entity/22077300",
+     "excerpt": "Ferncliff Foods Ltd is the registered name entered under number 22077300."
+    }
+   ]
+  }
+ }
+}
