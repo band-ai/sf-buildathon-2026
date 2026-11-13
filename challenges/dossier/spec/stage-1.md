@@ -635,8 +635,10 @@ The negating phrases are: `in talks to`, `plans to`, `planning to`, `wants to`,
 
 ### A.4 Value formats
 
-A **capitalised word** is an uppercase letter `A`–`Z` followed by one or more lowercase
-letters `a`–`z`, with no letter or digit directly before or after it.
+A **capitalised word** is an uppercase letter followed by one or more lowercase letters,
+with no letter or digit directly before or after it. The letters may be of any alphabet:
+`Zürich` and `Müller` are capitalised words. An **uppercase word** is two or more uppercase
+letters, with no letter or digit directly before or after it: `AI`, `USA`.
 
 A **number** is written in digits, optionally with a `,` before each group of three digits
 and a decimal part after a `.`: `120`, `1,200`, `12.5`, `12,000,000`. Digits directly next to
@@ -644,7 +646,7 @@ a letter, or joined to other digits by `,` or `.` in any other way, are not a nu
 
 | Field | Format |
 |---|---|
-| `legal_name` | The company's name or its domain (matched as in A.2), then zero or more capitalised words each after one space, then an optional `,`, one space, and a legal-form suffix with no letter or digit directly after it. Where several such texts start at the same place, the shortest counts |
+| `legal_name` | The company's name or its domain (matched as in A.2), then zero or more capitalised or uppercase words each after one space, then an optional `,`, one space, and a legal-form suffix with no letter or digit directly after it. Where several such texts start at the same place, the shortest counts |
 | `hq_city` | A place name directly after a statement phrase for `hq_city` and one space: the longest run of capitalised words joined by single spaces or by `-` that starts there, not part of a longer such run |
 | `ceo` | A person's name: a run of two or three capitalised words joined by single spaces that is not part of a longer such run. Occurrences of the company's name and of the statement phrases for `ceo` are first taken out of the sentence and separate the words around them |
 | `founded_year` | A number of exactly four digits, from 1800 to 2099, that is not part of an amount |

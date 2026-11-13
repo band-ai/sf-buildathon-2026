@@ -103,7 +103,11 @@ For Appendix A, `investors` is a field with the statement phrases `investor`, `i
 statement phrases are first taken out of the sentence and separate the words around them.
 Of the runs of capitalised words (A.4) joined by single spaces that remain, each not part of
 a longer such run, a run of two or more words whose last word is `Ventures`, `Capital`,
-`Partners`, `Fund`, `Investments`, `Holdings` or `Equity` is an **investor name**. An
+`Partners`, `Fund`, `Investments`, `Holdings` or `Equity` is an **investor name**. In an
+excerpt that contains an amount (A.4), the run that starts directly after `led by` or
+`backed by` and one space is an investor name too, whatever its length and last word:
+`Acme Robotics raised $40M in a round led by General Atlantic.` names `General Atlantic`,
+and `Acme Robotics is led by Dana Ruiz.` names no investor. An
 investor name normalises to the text as the excerpt writes it. Rules 1 to 4 of A.2 apply;
 in place of rule 5, an excerpt supports each investor name it contains.
 

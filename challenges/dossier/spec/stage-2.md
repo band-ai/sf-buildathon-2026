@@ -21,8 +21,9 @@ Two header lines (§4, Pages) now carry requirements:
 | `Kind: own`, `Kind: filing`, `Kind: news`, `Kind: aggregator` | The page's **kind**: the company's own site, a filing registry, a news report, or an aggregator of company data |
 | `Published: <RFC 3339 timestamp>` | When the page was published |
 
-A page with no `Kind` line, or with a value not listed above, is of kind `aggregator`. A
-page with no `Published` line, or with a value that is not an RFC 3339 timestamp, has no
+A page with no `Kind` line, or with a value not listed above, is of kind `own` when the
+host of its URL, normalised as `stage-1.md` normalises a domain, is the company's domain,
+and of kind `aggregator` otherwise. A page with no `Published` line, or with a value that is not an RFC 3339 timestamp, has no
 publication time.
 
 ## Page text
@@ -95,8 +96,9 @@ make a call again after a 429 does not count toward the 10 seconds of `stage-1.m
 A **candidate** is one value for one field, supported by one excerpt of one page. Every
 value that a page of the evidence (§4) supports for a field is a candidate of that field,
 once for each such page. The evidence now also holds the page that each research claim of
-the evidence cites, when the citation supports its claim. A research claim whose citation does not
-support it is not a candidate. A candidate's `provider` is a provider that served the text
+the evidence cites, whether or not the citation supports its claim: a build reads that page
+as it reads any other. A research claim whose citation does not support it is still not a
+candidate. A candidate's `provider` is a provider that served the text
 its excerpt is taken from; when several did, any of them may be given.
 
 Each field gains `candidates`:
