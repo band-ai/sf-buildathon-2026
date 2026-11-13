@@ -405,6 +405,11 @@ the dossier's fields with the result when it completes. A dossier's first build 
   supports a value for it.
 - A build whose provider calls each answer within one second ends within 10 seconds of the
   request that started it.
+- That bound is not a deadline for slower providers. Against the live providers
+  (`NIMBLE_BASE_URL` unset, or its host `sdk.nimbleway.com`), where a Nimble search can take
+  over ten seconds and a research run about a minute, a build does not give up on a call
+  that has been waiting less than 30 seconds, nor stop gathering because of the time it has
+  run in its first 120 seconds. It still ends `ready` or `failed` within 300 seconds.
 - Reading a dossier, listing dossiers and every other request except `POST /dossiers` and
   `POST /dossiers/{domain}/refresh` make no provider call.
 
