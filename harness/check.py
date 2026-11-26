@@ -26,7 +26,8 @@ SECRETS: tuple[tuple[str, str], ...] = (
     ("github-token", r"\bgh[pousr]_[A-Za-z0-9]{20,}\b"),
     ("env-assignment", r"(?i)\b[A-Z0-9_]*(?:KEY|TOKEN|SECRET|PASSWORD)\s*=\s*\S+"),
     # No quote or backslash in the user or password: in code, they end the URL.
-    ("url-credentials", r"""(?<=://)[^/\s:@"'\\]+:[^/\s@"'\\]+(?=@)"""),
+    # `[redacted]` as the whole password is Band's download redacting one.
+    ("url-credentials", r"""(?<=://)[^/\s:@"'\\]+:(?!\[redacted\]@)[^/\s@"'\\]+(?=@)"""),
 )
 # The room as downloaded from Band, saved unchanged at the repository root.
 ROOM = "room.json"
