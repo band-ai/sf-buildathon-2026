@@ -65,7 +65,7 @@
   "harness/__main__.py": "03305d3f394ff00dd4fdfc3953628e0e9df1fa34a63f64918d82708a6db64238",
   "harness/artifacts.py": "9b178703d5cae26d92276256af61a635436cf969a0ad29b5bd22e439d8efa11f",
   "harness/challenges.py": "9ff804e728a76ed981df01c2bf168131270029aaecaac13dc14375a6287dfc74",
-  "harness/check.py": "5b032bcd2d244f2590b6e9b776fe9a53972640b378a4f2d38d6397bf21d5ab8b",
+  "harness/check.py": "711825bb32e16bd2ace5ca25f14556387d6bd54042db9fec0d8ae59344ed0759",
   "harness/cli.py": "777d151de3bc03f0506d92da7f934104e5094a6cbd60ef3fbc21ee297d48fbd3",
   "harness/concurrent.py": "9cc74a8799eaf3ea47136381a57201d351f45620eab54f41771af54b32ef75f8",
   "harness/control.py": "30c4ae52c67b8a5c54ccb91956e90067309202536d0cdb1e93eae86d1c299a56",
